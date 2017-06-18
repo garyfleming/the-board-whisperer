@@ -54,7 +54,7 @@ Simple representation: to-do, doing (3), done. -- meaning
 ![Inline](a.jpg)
 
 ^ Teams job is to deliver value. They do that by getting items that have been
-prioritised has having value done. That means getting it completely, from one 
+prioritised has having value done. That means getting it completely, from one
 side of the board to another. Not part of the way. The whole way.
 TODO fill out
 
@@ -158,11 +158,15 @@ For Dev, we have exit criteria like
 
 ![Inline](real.jpg)
 
+^ A real board. You'll notice it has a bunch more columns.
+
 ---
 
 # Ready To Celebrate
 
 ![Inline](real.jpg)
+
+^ This came about because we realised our definition of done wasn't quite right: if it's not in production delivering value, it's not done. We wanted to create a new column to hold items that had been tested etc. but were not building up value. When this column fills up, that's a clear signal warning us about undelivered value.
 
 ---
 
@@ -170,11 +174,16 @@ For Dev, we have exit criteria like
 
 ![Inline](real.jpg)
 
+^ We found a number of items were getting to test and then getting rework or involved conversations. We realised that was because our developers, testers, and product owners weren't all having a conversation upfront. We decided we'd do a three amigos session, using Example Mapping, to make sure everyone understood and could contribute to the shaping of a story ahead of time. This meant far fewer issues later.
+
 ---
 
 # Disaster in discovery
 
 ![Inline](real.jpg)
+
+^ The board we had worked well for getting work done (in the sense of producing work), but when we moved into a length discovery phase (weeks) we found it didn't work any more. Items would jump around, they'd skip columns, they'd split into different areas etc. No clear joint up definition of whether the discovery work was analysis or dev, or both.
+We needed something new...
 
 
 ---
@@ -193,7 +202,7 @@ We weren't "Done" until it had been Played Back
 
 # Evolve Your Board
 
-^ Note that none of this is software specific: weekly shopping, home moves, HR dept.s
+^ Note that none of this is software specific: weekly shopping, home moves, HR dept.
 Look for pain points, signals, wip breaches. Look for signs things aren't
 working. Evolve your board.
 
