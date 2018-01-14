@@ -6,3 +6,4 @@
 * Cadence of ceremonies can be a sign of immaturity. You're using time as a substitute for more directly related things. Can be useful in some/many contexts (like if you're immature as a team, or have other areas of concern), but we can look beyond it. Example: Planning. Want to decide next thing of value, come up with an experiment of how to achieve that, figure out whether it worked. Needs constrained in some way, but "two week sprint every time" is crude. What other constraints could you use? What does the board tell us?
 * Cadence: https://twitter.com/garyfleming/status/944711411032297472
 * More cadence: https://twitter.com/johncutlefish/status/944607039220830209
+* Off-cadence: https://twitter.com/garyfleming/status/951599519812251650
