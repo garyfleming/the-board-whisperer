@@ -1,5 +1,6 @@
 # Possible TODOs
 
+* Possible framing device for everything is this Georgia O'Keefe quote: “Nothing is less real than realism. Details are confusing. It is only by selection, by elimination, by emphasis, that we get at the real meaning of things.” https://www.goodreads.com/quotes/672223-nothing-is-less-real-than-realism-details-are-confusing-it
 * Signal: irregular flow at certain points might indicate good point to remove cadence. Particularly around early phase/planning.
 * Make it clear that the board is just a tool. It signals things to you that are valuable when it reflects the real work of the team. Those signals are ultimately from the team, not the board.
 * Cadence: https://www.infoq.com/news/2017/12/teams-decouple-cadences
@@ -7,3 +8,4 @@
 * Cadence: https://twitter.com/garyfleming/status/944711411032297472
 * More cadence: https://twitter.com/johncutlefish/status/944607039220830209
 * Off-cadence: https://twitter.com/garyfleming/status/951599519812251650
+* Playback: time to clarify thoughts to produce a quick playback session is a wonderful privilege. Being able to spend time thinking is amazing.
