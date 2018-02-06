@@ -10,3 +10,9 @@
 * Off-cadence: https://twitter.com/garyfleming/status/951599519812251650
 * Cadence and time boxes: https://twitter.com/mattbarcomb/status/956650500967096320
 * Playback: time to clarify thoughts to produce a quick playback session is a wonderful privilege. Being able to spend time thinking is amazing.
+* Who should make changes? Who owns the board? (The whole team). Allow team to feel
+ pain/discomfort. Suggest possible options, but help team own the change.
+* Remember: the board represents the work. If that's not the case, change the board. Use it, then, to
+drive change in the way the work works.
+* Cross-functional teams: use the board to help spot teams that are multi-discipline (has dev/test/ux etc near each other but not necessarily working together), rather than cross-functional (test helps dev, dev and UX collaborate etc)
+* Flow boards (scrum or kanban) are limited, homogenous forms. If you can model the work and the system together, try that. (Decision matrix. Architecture diagrams with questions/tasks.)
