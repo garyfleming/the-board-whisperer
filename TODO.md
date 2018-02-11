@@ -9,10 +9,12 @@
 * More cadence: https://twitter.com/johncutlefish/status/944607039220830209
 * Off-cadence: https://twitter.com/garyfleming/status/951599519812251650
 * Cadence and time boxes: https://twitter.com/mattbarcomb/status/956650500967096320
-* Playback: time to clarify thoughts to produce a quick playback session is a wonderful privilege. Being able to spend time thinking is amazing.
+* Playback: time to clarify thoughts to produce a quick playback session is a wonderful privilege. Being able to spend time thinking is amazing. Using that time to help the team get up to speed makes it incredibly useful and pragmatic.
 * Who should make changes? Who owns the board? (The whole team). Allow team to feel
  pain/discomfort. Suggest possible options, but help team own the change.
 * Remember: the board represents the work. If that's not the case, change the board. Use it, then, to
 drive change in the way the work works.
 * Cross-functional teams: use the board to help spot teams that are multi-discipline (has dev/test/ux etc near each other but not necessarily working together), rather than cross-functional (test helps dev, dev and UX collaborate etc)
 * Flow boards (scrum or kanban) are limited, homogenous forms. If you can model the work and the system together, try that. (Decision matrix. Architecture diagrams with questions/tasks.)
+* OPening? "Let me tell you a story that is true, apart from the names changed to spare the innocent. And the parts I amalgamated from other stories. And the parts which are not true. "
+* "We start in a green field project under a darkened sky (zelda/shadow of colossus pic). A new team had formed (destiny group shot). How would we start figuring out how the work worked?"
