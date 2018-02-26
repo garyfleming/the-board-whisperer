@@ -15,6 +15,7 @@
  pain/discomfort. Suggest possible options, but help team own the change.
 * Remember: the board represents the work. If that's not the case, change the board. Use it, then, to
 drive change in the way the work works.
+* Complexity estimates: what are they? What signal?
 * Cross-functional teams: use the board to help spot teams that are multi-discipline (has dev/test/ux etc near each other but not necessarily working together), rather than cross-functional (test helps dev, dev and UX collaborate etc)
 * Flow boards (scrum or kanban) are limited, homogenous forms. If you can model the work and the system together, try that. (Decision matrix. Architecture diagrams with questions/tasks.)
 * OPening? "Let me tell you a story that is true, apart from the names changed to spare the innocent. And the parts I amalgamated from other stories. And the parts which are not true. "
