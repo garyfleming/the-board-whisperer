@@ -20,3 +20,5 @@ drive change in the way the work works.
 * Flow boards (scrum or kanban) are limited, homogenous forms. If you can model the work and the system together, try that. (Decision matrix. Architecture diagrams with questions/tasks.)
 * OPening? "Let me tell you a story that is true, apart from the names changed to spare the innocent. And the parts I amalgamated from other stories. And the parts which are not true. "
 * "We start in a green field project under a darkened sky (zelda/shadow of colossus pic). A new team had formed (destiny group shot). How would we start figuring out how the work worked?"
+* Jim Benson has a good quote: "How is the board telling us the truth? How is the board lying to us?". THE BOARD LIES TO US. It must be made to reflect something closer to reality, but is not itself reality. General semantics? https://youtu.be/Dv1NJvZVKJU?t=4m53s
+* Rituals - Possibly bring in aspects of The Wedding Ritual talk to discuss why stand-ups around the board are usually so poor.
