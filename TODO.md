@@ -1,7 +1,8 @@
 # Possible TODOs
 
-* Possible framing device for everything is this Georgia O'Keefe quote: “Nothing is less real than realism. Details are confusing. It is only by selection, by elimination, by emphasis, that we get at the real meaning of things.” https://www.goodreads.com/quotes/672223-nothing-is-less-real-than-realism-details-are-confusing-it
+* Possible framing device for everything is this Georgia O'Keeffe quote: “Nothing is less real than realism. Details are confusing. It is only by selection, by elimination, by emphasis, that we get at the real meaning of things.” https://www.goodreads.com/quotes/672223-nothing-is-less-real-than-realism-details-are-confusing-it
 * Staging, as in films/plays, as a metaphor for movement and placement around a board.
+* What does boring look like? When is the board not telling us anything? Perfect single-piece flow, maybe, but that's unlikely. Usually telling us something. We can usually improve. Makes it somewhat harder to spot signals if there are always signals.
 * Signal: irregular flow at certain points might indicate good point to remove cadence. Particularly around early phase/planning.
 * Make it clear that the board is just a tool. It signals things to you that are valuable when it reflects the real work of the team. Those signals are ultimately from the team, not the board.
 * Cadence: https://www.infoq.com/news/2017/12/teams-decouple-cadences
@@ -20,7 +21,8 @@ drive change in the way the work works.
 * Flow boards (scrum or kanban) are limited, homogenous forms. If you can model the work and the system together, try that. (Decision matrix. Architecture diagrams with questions/tasks.)
 * OPening? "Let me tell you a story that is true, apart from the names changed to spare the innocent. And the parts I amalgamated from other stories. And the parts which are not true. "
 * "We start in a green field project under a darkened sky (zelda/shadow of colossus pic). A new team had formed (destiny group shot). How would we start figuring out how the work worked?"
-* Jim Benson has a good quote: "How is the board telling us the truth? How is the board lying to us?". THE BOARD LIES TO US. It must be made to reflect something closer to reality, but is not itself reality. General semantics? https://youtu.be/Dv1NJvZVKJU?t=4m53s
+* Jim Benson has a good quote: "How is the board telling us the truth? How is the board lying to us?". THE BOARD LIES TO US. It must be made to reflect something closer to reality, but is not itself reality. General semantics? (maybe use a picture of lying cat here) https://youtu.be/Dv1NJvZVKJU?t=4m53s
+* If problems happen that aren't reflected on the board, ask yourselves why that is? Is the board missing something it should have? But remember the Georgia O'Keeffe quote.
 * Rituals - Possibly bring in aspects of The Wedding Ritual talk to discuss why stand-ups around the board are usually so poor.
 * Retrospective coherence - Talk about memories. Your first childhood memory of going through the piazza in your red buggy. Describe details. Then reveal it's in 3rd person. Most memories are. Explain retrospective coherence. Explain how it fits with the story of the board.
 * Signal: Log jam in review - WiP limited. It was only when test and dev  blocked behind it that people would review. Revealed lack of clarity of ownership around who should review and when and priority.

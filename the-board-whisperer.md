@@ -1,6 +1,6 @@
 theme: Ostrich, 1
 
-# Evolving Boards
+# The Board Whisperer
 
 @garyfleming
 
@@ -192,7 +192,7 @@ We needed something new...
 
 ![Inline](a.jpg)
 
-^ It was painful, but the solution was to find a new way of working. Which meant
+^ Our way of working had materially changed and our board was not working for us any more. It was painful, but the solution was to find a new way of working. Which meant
 a new board. We started from scratch. It then evolved some new appendages,
 like a "Playback" column for when team members discovered something that should
 be shared with the team.
