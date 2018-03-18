@@ -22,3 +22,5 @@ drive change in the way the work works.
 * "We start in a green field project under a darkened sky (zelda/shadow of colossus pic). A new team had formed (destiny group shot). How would we start figuring out how the work worked?"
 * Jim Benson has a good quote: "How is the board telling us the truth? How is the board lying to us?". THE BOARD LIES TO US. It must be made to reflect something closer to reality, but is not itself reality. General semantics? https://youtu.be/Dv1NJvZVKJU?t=4m53s
 * Rituals - Possibly bring in aspects of The Wedding Ritual talk to discuss why stand-ups around the board are usually so poor.
+* Retrospective coherence - Talk about memories. Your first childhood memory of going through the piazza in your red buggy. Describe details. Then reveal it's in 3rd person. Most memories are. Explain retrospective coherence. Explain how it fits with the story of the board.
+* Signal: Log jam in review - WiP limited. It was only when test and dev  blocked behind it that people would review. Revealed lack of clarity of ownership around who should review and when and priority.
