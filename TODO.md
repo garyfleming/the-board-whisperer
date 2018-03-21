@@ -26,3 +26,5 @@ drive change in the way the work works.
 * Rituals - Possibly bring in aspects of The Wedding Ritual talk to discuss why stand-ups around the board are usually so poor.
 * Retrospective coherence - Talk about memories. Your first childhood memory of going through the piazza in your red buggy. Describe details. Then reveal it's in 3rd person. Most memories are. Explain retrospective coherence. Explain how it fits with the story of the board.
 * Signal: Log jam in review - WiP limited. It was only when test and dev  blocked behind it that people would review. Revealed lack of clarity of ownership around who should review and when and priority.
+* Signal: test column blocking/slow movement -> testability had plummeted when we moved a different architecture -> ensure at 3 amigos we answer "how will we test this?" and ensure appropriate affordances are in place.
+* Signal: Wip limits (numbers) being breached -> easy to do, especially for new teams. The number and space are separate. -> use index cards as spaces. Physicalise WiP
