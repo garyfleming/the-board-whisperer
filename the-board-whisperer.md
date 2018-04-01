@@ -42,6 +42,7 @@ Importantly, note the lack of detail. The aesthetic choice here is getting close
 ^ Introduce myself.
 
 ^ This talk is about boards. Or it's about work. Or it's about how boards show us better ways of working but we mostly ignore them.
+^ I was going to create a title image where I took the poster from the film The Horse Whisperer, with Robert Redford, and crudely photoshopped in a whiteboard but... I'm not very good at photoshop
 
 ---
 
