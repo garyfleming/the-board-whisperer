@@ -1,5 +1,4 @@
 theme: Ostrich, 1
-footer: gary[@garyfleming].co.uk
 
 ^ TODO Make it clearer how the board **visually** signalled each issue.
 
