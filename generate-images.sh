@@ -7,5 +7,5 @@ do
   echo "Found: ${fname}"
   noext=${fname%.html};
   basename=${noext##*/};
-  webkit2png -F -o images/${basename} ${fname}
+  webkit2png -F --selector ".wrapper" -o images/${basename} ${fname}
 done

@@ -118,7 +118,7 @@ Yes, the falcon represents the tester. This is apt.
 
 # Three-Column Kanban
 
-![Inline](a.jpg)
+![Inline](images/three-col-full.png)
 
 ^TODO New image?
 ^ TODO remove wip limits from image?
@@ -131,7 +131,7 @@ Simple representation: to-do, doing (3), done. -- meaning
 
 # Delivering Value
 
-![Inline](a.jpg)
+![Inline](images/three-col-full.png)
 
 ^ TODO Move this earlier to part about boards/kanban>?
 ^ Teams job is to deliver value. They do that by getting items that have been
@@ -143,7 +143,7 @@ TODO fill out
 
 # Work-in-Progress (WiP) Limits
 
-![Inline](a.jpg)
+![Inline](images/three-col-full.png)
 
 ^ The "3" in the Doing column is the magic of Kanban. It represents a limit on
 the number of items in that column. By doing this we're able to see and manage the flow
@@ -194,7 +194,7 @@ It's much harder to spot the kinds of signal I'll be talking about on a digital 
 
 ![original fit](images/signal.png)
 
-![Inline](a.jpg)
+![Inline](images/three-col-full.png)
 
 ^ So that's a good starting point, enough for a lean coffee session, but not really
 enough for a real, mixed function team (test, BA, PO etc). Now, as I said, you should start from where you
@@ -206,7 +206,7 @@ The board was giving us another signal: that we didn't understand our process ye
 
 # Solution: Conversations and Columns
 
-![Inline](b.jpg)
+![Inline](images/five-col-full.png)
 
 ^ So we had a difficult conversation and realised that we'd need an analysis and
 test column. "Doing" wasn't the only kind of doing any more, so we renamed it
@@ -218,7 +218,7 @@ dev.
 
 ![original fit](images/signal.png)
 
-![Inline](b.jpg)
+![Inline](images/five-col-full.png)
 
 ^ At roughly the same time, we realised that
 "To-do" was going to have to change. It used to mean "stuff that was waiting for
@@ -231,7 +231,7 @@ there should be different kinds of to-do.
 
 ![original fit](images/signal.png)
 
-![Inline](b.jpg)
+![Inline](images/five-col-full.png)
 
 ^ We also noticed that people weren't well attuned to the WiP limits at the top (the numbers). It was easy to just put things into the column, so while we were showing them the effect of doing that, we also made a tweak (at the same time as the TODO change)
 
@@ -239,7 +239,7 @@ there should be different kinds of to-do.
 
 # Solution: Active columns
 
-![Inline](c.jpg)
+![Inline](images/active-col-full.png)
 
 ^ Hence, we added in queues before active columns To help differentiate between the two columns, and to visualise the WiP Limits
 we started using coloured index cards. Red for a queue, green for an active column,
