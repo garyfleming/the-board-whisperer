@@ -26,12 +26,16 @@ Importantly, note the lack of detail. The aesthetic choice here is getting close
 
 @garyfleming
 
+![](images/whiteboard.png)
+
 ^ Introduce myself.
 
 ---
 
 # The Board Whisperer
 ## (Roll credits)
+
+![](images/whiteboard.png)
 
 @garyfleming
 
@@ -42,6 +46,8 @@ Importantly, note the lack of detail. The aesthetic choice here is getting close
 ---
 
 # The Stand-Up Dysfunction
+
+![](images/smilies.jpg)
 
 ^ TODO I like this slide but does it fit exactly here?
 ^ TODO Way too many points being made here
@@ -54,6 +60,8 @@ It was project management, not anything that generated useful insights.
 ---
 
 # Boards Offer Insight
+
+![](images/glasses.jpg)
 
 ^ So I'm going to show you how to use boards to generate insights into making things better with your process and people. How to hear the signals it is sending, and start turning them into change.
 
@@ -91,7 +99,9 @@ with just a few lies to better illustrate points. -->
 
 ---
 
-# Based on a True Story.
+# Based on a True Story
+
+![](images/fargo-w.jpg)
 
 ^ TODO get a decent based on a true story image. Possibly Fargo?
 
@@ -360,6 +370,8 @@ For Dev, we have exit criteria like
 # Well-Oiled Machine
 ## Prelude to a Disaster
 
+![original](images/car-on-fire.jpg)
+
 ^ So months went by and other things changed, but as a team we were working well. We understood the work, we had a smooth process,
 
 ---
@@ -413,5 +425,7 @@ working. Evolve your board.
 ---
 
 # Thank You
+
+![ left fit ](images/board-whisperer-x.jpg)
 
 @garyfleming
