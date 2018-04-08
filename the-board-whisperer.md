@@ -1,6 +1,7 @@
-theme: Ostrich, 1
+theme: Sketchnote, 1
 
 ^ TODO Make it clearer how the board **visually** signalled each issue.
+^ TODO Split board structure signals and work movement signals into separate halves. Use staging/movement as metaphor here.
 
 ![fit](images/Georgia_O'Keeffe_Red_Canna_1919_HMA.jpg)
 
@@ -119,7 +120,6 @@ Yes, the falcon represents the tester. This is apt.
 
 ---
 
-# Green Fields
 
 ![original](images/sotc-green-fieldish.jpg)
 
@@ -373,7 +373,7 @@ For Dev, we have exit criteria like
 
 ![original](images/car-on-fire.jpg)
 
-^ So months went by and other things changed, but as a team we were working well. We understood the work, we had a smooth process,
+^ So months went by and other things changed, but as a team we were working well. We understood the work, we had a smooth process, and things generally worked. It was a good time.
 
 ---
 
@@ -385,7 +385,45 @@ For Dev, we have exit criteria like
 ^ The board we had worked well for getting work done (in the sense of producing work), but when we moved into a length discovery phase (weeks) we found it didn't work any more. Items would jump around, they'd skip columns, they'd split into different areas etc. No clear joint up definition of whether the discovery work was analysis or dev, or both.
 We needed something new...
 
-<!-- ---
+---
+
+# Solution: Three-Column Kanban
+
+![Inline](images/three-col-full.png)
+
+^ Our way of working had materially changed and our board was not working for us any more. It was painful, but the solution was to find a new way of working. Which meant
+a new board. We started from scratch.
+
+---
+
+# Starting a new Journey
+
+^ TODO journey image!
+^ Starting from scratch is hard. You've invested a lot of time in effort to make your boards work for you. But you have to be willing to kill your darlings when the board is yelling at you that it doesn't work any more.
+
+---
+
+# Signal: Done in Discovery?
+
+^ What did done mean in discovery now? It didn't mean that it was live and adding value. It meant that we had discovered something. But we found things would move to "Done" and then other team members would ask for an explanation, so they could build on that work. It wasn't really done.
+
+---
+
+# Solution: Playback
+
+^ TODO
+like a "Playback" column for when team members discovered something that should
+be shared with the team.
+We weren't "Done" until it had been Played Back
+
+---
+
+# Back to Big
+
+^ TODO back to big board. Playback came too
+
+
+<!--
 
 # Signal: XXXXX
 
@@ -393,23 +431,8 @@ We needed something new...
 
 ^ TODO visual. Problem. exploration. Solution -->
 
-<!-- ---
-
-TODO repurpose these slides in the new format
 
 
-
----
-
-# Solution: Three-Column Kanban
-
-![Inline](a.jpg)
-
-^ Our way of working had materially changed and our board was not working for us any more. It was painful, but the solution was to find a new way of working. Which meant
-a new board. We started from scratch. It then evolved some new appendages,
-like a "Playback" column for when team members discovered something that should
-be shared with the team.
-We weren't "Done" until it had been Played Back -->
 
 ---
 
@@ -422,6 +445,7 @@ working. Evolve your board.
 ---
 
 ^ TODO come back to the Georgia O'Keeffe quote. Here or a bit earlier.
+^ Our final board
 
 ---
 
