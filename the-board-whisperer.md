@@ -429,6 +429,12 @@ It's hard to be certain because we didn't do it, but it probably wouldn't have h
 
 ^ TODO visual. Problem. exploration. Solution
 ^ TODO extensive part about cadence
+^ Here's a very visual signal: we started to notice waves passing across the board. Not just any waves. Anti-waves. Gaps. One day analysis would be empty, then dev, then test etc. As queues emptied and work got done, we could see fairly consistent but somewhat random movement across the board. This manifested itself most notably in the ready for analysis column (our input) draining, going empty, and then suddenly refilling. Over and over.
+^ When we had the conversation, we talked a lot about flow. About the elements that were causing this lack of flow, and how we could tackle it. There were a few things at play, but the RfA column was key. It was filling weirldy because our two-week cadence wasn't right for us. We were chewing through things quicker.
+^ So let's lower cadence by a few days? How about we just get rid of it? How about we use the board as our signal? The BA/PO are usually looking at what should be next anyway, so how about rather than wait two weeks, we just keep an eye on the board for the signal that we'd need more soon.
+^ We removed cadence. Gone. We realised  we didn't really need it any more. We were delivering every commit to production already, we *always* had working software, our planning moved to just-in-time. So what was "two weeks" doing for us? Nothing. Absolutely nothing.
+^ TODO much longer bit about cadence.
+^
 
 ---
 
