@@ -1,10 +1,11 @@
 theme: Sketchnote, 1
 
 ^ TODO Make it clearer how the board **visually** signalled each issue.
+^ TODO maybe describe the talk near the start as being kind of a kata and kind of a catalogue: I'll show you the moves we made when facing different situations so that you can feel the movement. It doesn't meant they're applicable in your situation, but if you can see the thinking maybe you can start to apply that.
 ^ TODO Split board structure signals and work movement signals into separate halves. Use staging/movement as metaphor here.
 ^ TODO midway-ish: what we’ve done to this point is flush out our rough process in terms of steps we take. We started somewhere (3-col) and iterated until we got this. Now let’s go looking for other kinds of signals
-^ TODO call out that we don’t queue between analysis and 3 amigos. Sets expectation that we move quickly between the two. Almost like two-phases of the same thing, but the latter has more participants
 ^ TODO playback and wip blocked markers
+
 
 ![fit](images/Georgia_O'Keeffe_Red_Canna_1919_HMA.jpg)
 
@@ -393,7 +394,15 @@ For Dev, we have exit criteria like
 
 ![original fit](images/signal.png)
 
-^ TODO visual. Problem. exploration. Solution
+^ TODO split into: visual. Problem. exploration. Solution
+^ Visual: Review became a bottleneck. Things were backing up a lot behind it.
+Someone immediately suggested increasing the WiP limit. Nearly got actioned.
+When we had a conversation about why it happened, it was because people hadn't prioritised it. They hadn't prioritised it, even though it was towards the right of the board, because they weren't clear who exactly should be involved. Some times it was the BA, sometimes the PO. Sometimes it was the developer who walked them through, sometimes the tester. What we actually needed was a better but flexible policy that made it clear.
+^ TODO another slide about WiP?
+^ It does raised the question: what would have happened if we had just ploughed ahead and gone with that first obvious solution: what if we increased WiP to remove the blockage?
+It's hard to be certain because we didn't do it, but it probably wouldn't have helped. We'd go from having 2 things blocked in review to mostly having 3 things blocked, with the same systemic problem (i.e. people not understanding their responsibility) plagueing us... but a little bigger.
+^ TODO an aside into WiP for a little more shape.
+^ I've talked about WiP limits a couple of times during this and something I've been asked very often is: "What should the WiP limits be for this column?". Sometimes it's "What should the WiP limits be for this column with these people constraints?". Either way, I have no idea. Really I don't. It's contextual. I know people who have argued that the ideal WiP is 1, right across the board. The idea being that each person does their part, passes to the right and pulls from the left in perfect harmony (TODO pic!). That has some truth in it but fails in reality. Why? The things we work on just aren't that evenly sliced. We should aim for small even slices, but few teams work well enough to nail this. Aiming for small is good. More importantly, the things we work on don't usually take the same length of time. Analysis, development, testing. It's unlikely they'll all take exactly the same length of time on a task, or even out over time. To be clear, I'm not saying one takes longer than the others: it's very task contextual.
 
 ---
 
@@ -401,7 +410,12 @@ For Dev, we have exit criteria like
 
 ![original fit](images/signal.png)
 
-^ TODO visual. Problem. exploration. Solution
+^ TODO SPLIT visual. Problem. exploration. Solution
+^ Things started taking ages in test. Tickets which had been taking a half-day were now taking several days. The effect of this was that the ready for test column filled up and dev backlogged. Why?
+^ Someone quickly solutionised and said we should get another tester to help with the work. Two people would half the amount of work... this was despite the fact that devs in our team would often do test work. We probably weren't facing a sizing problem.
+^ So... we had a conversation. It became clear that the tester was taking longer to test because they were having to setup a whole bunch of different things in an isolated environment to properly test. Why was that different than before?
+^ Well, we had switched from one architectural style (REST APIs) to something else (event-driven over message queues). When we made that change, the developers hadn't created any affordances that would make test easy. System visibility had been lowered. We realised immediately if system visibility was lowered to a tester, then it was going to be difficult to operate in a production environment.
+^ The ultimate solution: actually just spend a bit of time thinking about this as part of analysis. During three amigos, a new question would be asked: "How do we test this?" That way the devs could build something that was testable, and the testers could raise concerns.
 
 ---
 
@@ -446,7 +460,6 @@ a new board. We started from scratch.
 
 ![original](images/journey.jpg)
 
-^ TODO journey image!
 ^ Starting from scratch is hard. You've invested a lot of time in effort to make your boards work for you. But you have to be willing to kill your darlings when the board is yelling at you that it doesn't work any more.
 
 ---
@@ -486,13 +499,14 @@ We weren't "Done" until it had been Played Back
 
 # Evolve Your Board
 
-^ Note that none of this is software specific: weekly shopping, home moves, HR dept.
-Look for pain points, signals, wip breaches. Look for signs things aren't
+^ Look for pain points, signals, wip breaches. Look for signs things aren't
 working. Evolve your board.
 
 ---
 
 # Just enough. Not perfect.
+
+![](images/not-a-pipe.jpg)
 
 ^ TODO image. general semantics? the pipe one, maybe?
 ^ There are all sorts of ways to tweak your board, but you have to remember that it's always an abstraction. It's there to help you work. It is not, itself the work.
@@ -524,16 +538,14 @@ working. Evolve your board.
 * By getting at the real meaning of things.
 
 ^ The board helps by removing confusing details, by allowing us to select and focus, eliminating and emphasising. We can see the real meaning in our work.
-^ If that sounds familiar...
+^ To put that another way...
 
 ---
 
-> “Nothing is less real than realism. Details are confusing. It is only by selection, by elimination, by emphasis, that we get at the real meaning of things.”
+## “Nothing is less real than realism. Details are confusing. It is only by selection, by elimination, by emphasis, that we get at the real meaning of things.”
 
 ![fit](images/Georgia_O'Keeffe_Red_Canna_1919_HMA.jpg)
 
-^ TODO come back to the Georgia O'Keeffe quote. Here or a bit earlier.
-^ Our final board
 
 ---
 
