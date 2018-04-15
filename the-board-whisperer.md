@@ -2,9 +2,9 @@ theme: Sketchnote, 1
 
 ^ TODO Make it clearer how the board **visually** signalled each issue.
 ^ TODO Split board structure signals and work movement signals into separate halves. Use staging/movement as metaphor here.
+^ TODO midway-ish: what we’ve done to this point is flush out our rough process in terms of steps we take. We started somewhere (3-col) and iterated until we got this. Now let’s go looking for other kinds of signals
 ^ TODO call out that we don’t queue between analysis and 3 amigos. Sets expectation that we move quickly between the two. Almost like two-phases of the same thing, but the latter has more participants
 ^ TODO playback and wip blocked markers
-^ TODO midway-ish: what we’ve done to this point is flush out our rough process in terms of steps we take. We started somewhere (3-col) and iterated until we got this. Now let’s go looking for other kinds of signals
 
 ![fit](images/Georgia_O'Keeffe_Red_Canna_1919_HMA.jpg)
 
@@ -306,15 +306,54 @@ value, we would have to actually deploy.
 ^ So we had a conversation and the team saw what we were seeing but decided the board needed somewhere to temporarily park stuff to visualise what was waiting for production.
 Limited WiP here would cause blockage further back, incentivising more frequent releases and, quite quickly, a move to CI/CD
 
-<!-- ---
+---
 
 # Signal: Too Much Rework.
 
 ![original fit](images/signal.png)
 
-^ TODO visual queue? Blocker
-^ TODO solution: three amigos. Build shared understanding.
-^ FROM OLD VERSION We found a number of items were getting to test and then getting rework or involved conversations. We realised that was because our developers, testers, and product owners weren't all having a conversation upfront. We decided we'd do a three amigos session, using Example Mapping, to make sure everyone understood and could contribute to the shaping of a story ahead of time. This meant far fewer issues later. -->
+^ Visual: we found a number of items were getting to test and then getting more rework. We could see this in the developers owning stuff in the test column, or in the blockers.
+Or worse: when the tester said it didn't do X, Y, or Z, the response was the awful...
+
+---
+
+# Signal: Too Much Rework.
+
+![original fit](images/signal.png)
+
+## "THAT WASN'T IN THE REQUIREMENTS."
+
+^ Have you ever heard that before?
+^ Let's be clear: this usually happens when developers take a blinkered view of development. Spec-in, build-thing, software-out. It's usually caused by the system and pressures around them, but it's not true of modern Agile development. There is a real problem here.
+
+---
+
+# Answer: Three Amigos
+
+^ TODO three amigos board!
+^ The way we get passed this is by having conversations. You need some Three Amigos at the start. You can pick your methodology as you like but you can avoid these kinds of blockers by having a three-way conversation between a developer, tester, and product owner (or sometimes BA) upfront. ake sure everyone understood and could contribute to the shaping of a story ahead of time. This meant far fewer issues later.
+
+---
+
+# Three Amigos: Example Mapping
+
+## examplemapping.com
+
+
+^ You can use whatever method you like for these conversations. Right now, I really like Example Mapping, which was created by Matt Wynne. I don't have time to go into it now, but if you go to examplemapping.com you'll get taken to his original blog post on the matter.
+
+---
+
+# Useful signal: Three Amigos Bottleneck
+^ TODO three amigos board!
+^ It's also worth calling out a signal we were inserting into the board here: there is no queue column between Analysis and Three Amigos. We decided to make it explicit in our process that the conversation was important and should happen as a priority. Not being able to queue does that.
+
+---
+
+# Useful signal: Three Amigos Bottleneck
+
+^ If something sits in Three Amigos for any length of time, the bottleneck forms and we see that communication isn't working the way we wanted. We have a conversation.
+
 
 ---
 
@@ -405,12 +444,16 @@ a new board. We started from scratch.
 
 # Starting a new Journey
 
+![original](images/journey.jpg)
+
 ^ TODO journey image!
 ^ Starting from scratch is hard. You've invested a lot of time in effort to make your boards work for you. But you have to be willing to kill your darlings when the board is yelling at you that it doesn't work any more.
 
 ---
 
 # Signal: Done in Discovery?
+
+![original fit](images/signal.png)
 
 ^ What did done mean in discovery now? It didn't mean that it was live and adding value. It meant that we had discovered something. But we found things would move to "Done" and then other team members would ask for an explanation, so they could build on that work. It wasn't really done.
 
@@ -439,8 +482,6 @@ We weren't "Done" until it had been Played Back
 ^ TODO visual. Problem. exploration. Solution -->
 
 
-
-
 ---
 
 # Evolve Your Board
@@ -450,6 +491,46 @@ Look for pain points, signals, wip breaches. Look for signs things aren't
 working. Evolve your board.
 
 ---
+
+# Just enough. Not perfect.
+
+^ TODO image. general semantics? the pipe one, maybe?
+^ There are all sorts of ways to tweak your board, but you have to remember that it's always an abstraction. It's there to help you work. It is not, itself the work.
+
+---
+
+[.build-lists: true]
+
+# The real work is...
+
+* Individuals & Interactions
+* Collaboration
+* Responding to change
+* Producing working software
+
+^ The real work lies not in the tasks but in the messy communication around the tasks.
+^ It lies in the change.
+^ The real work is in producing working software ONCE we've had a chat about what working software actually is.
+^ I sincerely hope that list sounds familiar...
+
+---
+
+# The board helps by
+
+* Removing confusing details.
+* By Selecting.
+* By Elimination.
+* By Emphasising.
+* By getting at the real meaning of things.
+
+^ The board helps by removing confusing details, by allowing us to select and focus, eliminating and emphasising. We can see the real meaning in our work.
+^ If that sounds familiar...
+
+---
+
+> “Nothing is less real than realism. Details are confusing. It is only by selection, by elimination, by emphasis, that we get at the real meaning of things.”
+
+![fit](images/Georgia_O'Keeffe_Red_Canna_1919_HMA.jpg)
 
 ^ TODO come back to the Georgia O'Keeffe quote. Here or a bit earlier.
 ^ Our final board
