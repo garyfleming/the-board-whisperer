@@ -2,6 +2,9 @@ theme: Sketchnote, 1
 
 ^ TODO Make it clearer how the board **visually** signalled each issue.
 ^ TODO Split board structure signals and work movement signals into separate halves. Use staging/movement as metaphor here.
+^ TODO call out that we don’t queue between analysis and 3 amigos. Sets expectation that we move quickly between the two. Almost like two-phases of the same thing, but the latter has more participants
+^ TODO playback and wip blocked markers
+^ TODO midway-ish: what we’ve done to this point is flush out our rough process in terms of steps we take. We started somewhere (3-col) and iterated until we got this. Now let’s go looking for other kinds of signals
 
 ![fit](images/Georgia_O'Keeffe_Red_Canna_1919_HMA.jpg)
 
@@ -69,7 +72,9 @@ It was project management, not anything that generated useful insights.
 
 ---
 
-# Expectation
+# R U XPRNC'D?
+
+![fit](images/experienced.jpg)
 
 ^ Expectation: mixed group
 Who has used a board before? Who would be comfortable setting up a new one for a decent sized team?
@@ -198,6 +203,8 @@ You need to be attentive
 
 ^ One of the reasons experienced agile folk tend to prefer physical boards to digital boards (like JIRA) is that they live in your space. The signals are easier to notice because the signals emanate from the board all the time. The more you see it, the more signals you see.
 It's much harder to spot the kinds of signal I'll be talking about on a digital board, hence they often degenerate into tracking tools.
+
+^ TODO Expand or create additional slide with something like: "the signals we get are visual. You could possibly achieve the same thing on a digital board, analysing and scrutinising the numbers, but takes longer. Requires more work. Tendency towards shallow analytical thinking (as opposed to having conversations)"
 
 ---
 
