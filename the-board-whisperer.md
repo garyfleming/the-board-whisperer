@@ -75,7 +75,7 @@ It was project management, not anything that generated useful insights.
 
 # R U XPRNC'D?
 
-![fit](images/experienced.jpg)
+![original left](images/experienced.jpg)
 
 ^ Expectation: mixed group
 Who has used a board before? Who would be comfortable setting up a new one for a decent sized team?
@@ -91,7 +91,11 @@ Experts: Just a chance to see someone else's board -- I enjoy this.
 That's a dull discussion about fairly interesting things, but isn't relevant to
 what I'm trying to convey.
 So forgive my looseness with language and terminology, and hopefully I can show
-you something useful.
+you something useful. If you want a quick definition of Kanban, then it's this
+
+---
+
+![original fit](images/kuhbonbon.jpg)
 
 
 <!-- ---
