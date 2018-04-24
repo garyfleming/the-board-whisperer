@@ -23,7 +23,7 @@ Importantly, note the lack of detail. The aesthetic choice here is getting close
 ![fit](images/Georgia_O'Keeffe_Red_Canna_1919_HMA.jpg)
 
 ^ O'Keeffe said this...
-^ Cool. Now you've had some education in Art History, we can get on with the show
+^ But you're not here for art history education, so let's get started.
 
 ---
 
@@ -33,7 +33,7 @@ Importantly, note the lack of detail. The aesthetic choice here is getting close
 
 ![](images/whiteboard.png)
 
-^ Introduce myself.
+^ Introduce myself. What I do. Title.
 
 ---
 
@@ -44,10 +44,8 @@ Importantly, note the lack of detail. The aesthetic choice here is getting close
 
 @garyfleming
 
-^ Introduce myself.
-
-^ This talk is about boards. Or it's about work. Or it's about how boards show us better ways of working but we mostly ignore them.
 ^ I was going to create a title image where I took the poster from the film The Horse Whisperer, with Robert Redford, and crudely photoshopped in a whiteboard but... I'm not very good at photoshop
+^ This talk is about boards. Or it's about work. Or it's about how boards show us better ways of working but we mostly ignore them.
 
 ---
 
@@ -55,7 +53,6 @@ Importantly, note the lack of detail. The aesthetic choice here is getting close
 
 ![](images/smilies.jpg)
 
-^ TODO I like this slide but does it fit exactly here?
 ^ TODO Way too many points being made here
 ^ This was made clear to me when observing a number of different teams and seeing how they did standups.
 If you squinted they looked kinda like Daily Scrums, as per the Scrum Framework. But if you looked more closely, or understood Scrum/Agile properly, you realised it really wasn't the same thing.
@@ -85,37 +82,26 @@ Experts: Just a chance to see someone else's board -- I enjoy this.
 
 ---
 
-# This Talk Won't Explain Kanban
+![original fit](images/kuhbonbon.jpg)
 
 ^ What I'm NOT going to explain is Kanban vs kanban board vs kanban process etc
 That's a dull discussion about fairly interesting things, but isn't relevant to
 what I'm trying to convey.
 So forgive my looseness with language and terminology, and hopefully I can show
-you something useful. If you want a quick definition of Kanban, then it's this
+you something useful.
 
 ---
 
-![original fit](images/kuhbonbon.jpg)
+# Flow boards
 
-
-<!-- ---
-
-TODO remove this for now. What does it add?
-# What is a Kanban board?
-
-^ Way of visualising the flow of work in order to learn some interesting things.
-TODO BULK THIS out
-I'm going to frame most of this talk as how a team I work with evolved their board
-from something simple to something that was a much better fit. It's mostly true,
-with just a few lies to better illustrate points. -->
+^ So am I talking about? Let's just say flow boards. Just a way of visualising the flow of work in order to learn some interesting things.
+^ TODO image of river
 
 ---
 
 # Based on a True Story
 
 ![](images/fargo-w.jpg)
-
-^ TODO get a decent based on a true story image. Possibly Fargo?
 
 ^ I'm going to tell you about all of this through the true story of a team I worked with. It's all true, but the names have been changed. Also it's really an amalgamation of a few different teams. Also there are parts I might've made up. Other than that, true story.
 
@@ -141,12 +127,11 @@ Yes, the falcon represents the tester. This is apt.
 
 ![Inline](images/three-col-full.png)
 
-^TODO New image?
 ^ TODO remove wip limits from image?
 ^ Most of the time you should start from where you are: this is try to think about
 what your team actually do and create columns that represent that flow. In this case,
 we were a new team, so we started from nothing. The most "nothing" board is 3-col.
-Simple representation: to-do, doing (3), done. -- meaning
+Simple representation: to-do, doing (3), done.
 
 ---
 
@@ -154,11 +139,9 @@ Simple representation: to-do, doing (3), done. -- meaning
 
 ![Inline](images/three-col-full.png)
 
-^ TODO Move this earlier to part about boards/kanban>?
 ^ Teams job is to deliver value. They do that by getting items that have been
-prioritised has having value done. That means getting it completely, from one
-side of the board to another. Not part of the way. The whole way.
-TODO fill out
+prioritised as having value done. That means getting it completely, from one
+side of the board to another. Not part of the way. The whole way. There is no partial credit.
 
 ---
 
@@ -183,7 +166,7 @@ We initially picked 3 because we had 6 developers and we intended to pair.
 ![original](images/sotc-signal.jpg)
 
 ^ I've mentioned "Signals" a few times now, so it's worth thinking about what that means. The more your board can reflect your work, the more it will help you to see issues.
-You need to be attentive
+You need to be attentive to places where your board isn't giving you enough information to do the work well, or is giving you far too much and drowning you in details.
 
 ---
 
@@ -202,14 +185,21 @@ You need to be attentive
 
 ---
 
-# Physical Boards
+# Physical Boards Are Signalling
 
 ![original](images/uc4-crowd.jpg)
 
 ^ One of the reasons experienced agile folk tend to prefer physical boards to digital boards (like JIRA) is that they live in your space. The signals are easier to notice because the signals emanate from the board all the time. The more you see it, the more signals you see.
 It's much harder to spot the kinds of signal I'll be talking about on a digital board, hence they often degenerate into tracking tools.
 
-^ TODO Expand or create additional slide with something like: "the signals we get are visual. You could possibly achieve the same thing on a digital board, analysing and scrutinising the numbers, but takes longer. Requires more work. Tendency towards shallow analytical thinking (as opposed to having conversations)"
+---
+
+# Digital Boards are Analytical
+
+^TODO image: analytical. Maybe an old-skool robot?
+
+^ the signals we get are visual. You could possibly achieve the same thing on a digital board, analysing and scrutinising the numbers, but takes longer. Requires more work. Tendency towards shallow analytical thinking (as opposed to having conversations)
+^ They've done analytical work to find issues, so they are biased towards seeing it as a solution.
 
 ---
 
@@ -233,7 +223,7 @@ The board was giving us another signal: that we didn't understand our process ye
 
 ^ So we had a difficult conversation and realised that we'd need an analysis and
 test column. "Doing" wasn't the only kind of doing any more, so we renamed it
-dev.
+"dev".
 
 ---
 
@@ -273,20 +263,7 @@ We had our queues, and people immediately started feeling weird about putting st
 
 ![original](images/weird.jpg)
 
-^ ...people immediately started feeling weird about putting stuff outside the boundaries of a card. The WiP limit hadn't changed but it was a tangible and physical thing now. Physicality has power.
-
-
-<!-- ---
-
-TODO Doesn't make as much sense now. Remove?
-# Kanban is a Pull system
-
-![Inline](c.jpg)
-
-^ The queues tell us something: kanban is a pull system. Items wait for people
-to pull them into an active column. They are never pushed into work. something
-can only be in an active column if someone has made it active by taking ownership
-... hence nothing is allowed in active columns unless someone's avatar is on it. -->
+^ ...people immediately started feeling weird about putting stuff outside the boundaries of a card. Without any further intervention, people breached WiP way less often and, if someone did, the team would ask them to fix it. The WiP limit hadn't changed but it was a tangible and physical thing now. Physicality has power.
 
 ---
 
@@ -295,7 +272,7 @@ can only be in an active column if someone has made it active by taking ownershi
 ![original fit](images/signal.png)
 
 ^ TODO pull this one for time?
-^ TODO done didn't represent work being in the real world. It just meant
+^ "Done" didn't represent work being in the real world. It just meant
 the team weren't going to add to it or inspect it for the moment. If we wanted
 value, we would have to actually deploy.
 
@@ -303,13 +280,28 @@ value, we would have to actually deploy.
 
 # Answer: Ready to Celebrate
 
-🎉
-🎉🎉
-🎉🎉🎉
-🎉🎉🎉🎉
+🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
 
 ^ So we had a conversation and the team saw what we were seeing but decided the board needed somewhere to temporarily park stuff to visualise what was waiting for production.
-Limited WiP here would cause blockage further back, incentivising more frequent releases and, quite quickly, a move to CI/CD
+
+
+---
+
+# Answer: Ready to Celebrate
+
+^ TODO image illustrating ready to celebrate
+
+^ Limiting WiP here would cause blockage further back, incentivising more frequent releases and, quite quickly, a move to CI/CD
 
 ---
 
@@ -335,8 +327,10 @@ Or worse: when the tester said it didn't do X, Y, or Z, the response was the awf
 
 # Answer: Three Amigos
 
-^ TODO three amigos board!
-^ The way we get passed this is by having conversations. You need some Three Amigos at the start. You can pick your methodology as you like but you can avoid these kinds of blockers by having a three-way conversation between a developer, tester, and product owner (or sometimes BA) upfront. ake sure everyone understood and could contribute to the shaping of a story ahead of time. This meant far fewer issues later.
+## 🧐🤓😇
+
+^ TODO image: three amigos board!
+^ The way we get passed this is by having conversations. You need some Three Amigos at the start. You can pick your methodology as you like but you can avoid these kinds of blockers by having a three-way conversation between a developer, tester, and product owner (or sometimes BA) upfront. Make sure everyone understood and could contribute to the shaping of a story ahead of time. This meant far fewer issues later.
 
 ---
 
@@ -350,7 +344,8 @@ Or worse: when the tester said it didn't do X, Y, or Z, the response was the awf
 ---
 
 # Useful signal: Three Amigos Bottleneck
-^ TODO three amigos board!
+
+^ TODO image: three amigos board!
 ^ It's also worth calling out a signal we were inserting into the board here: there is no queue column between Analysis and Three Amigos. We decided to make it explicit in our process that the conversation was important and should happen as a priority. Not being able to queue does that.
 
 ---
@@ -379,7 +374,14 @@ Or worse: when the tester said it didn't do X, Y, or Z, the response was the awf
 ^ That's an example of a policy: "Everything in an active column must have an avatar
 belonging to the person who pulled it on it."
 When we saw problems, we'd sometimes create new policies.
-For Dev, we have exit criteria like
+For Dev, we have exit criteria like....
+
+---
+
+# Shared Ownership through Conversations
+
+^ TODO image: hmm... ownership? collaboration? conversation?
+^ Importantly, and predictably, how do we come up with exit criteria? We have a conversation. The team, as a whole, agrees on the criteria and enforces it collectively. Shared ownership through conversations. It's hard to feel like you own something if you didn't have input into the rules.
 
 ---
 
@@ -387,10 +389,17 @@ For Dev, we have exit criteria like
 
 ![Inline](d.jpg)
 
-^ That's an example of a policy: "Everything in an active column must have an avatar
-belonging to the person who pulled it on it."
-When we saw problems, we'd sometimes create new policies.
-For Dev, we have exit criteria like
+^ TODO image: exit criteria
+^ That's what that looks like on the board.
+
+---
+
+![original](images/not-a-pipe.jpg)
+
+^ TODO write something about this painting
+^ Oh, wait, What's this? Well, I guess I'll tell you a bit about this painting...
+
+^ But you're not here hear about art history..
 
 ---
 
@@ -398,15 +407,45 @@ For Dev, we have exit criteria like
 
 ![original fit](images/signal.png)
 
-^ TODO split into: visual. Problem. exploration. Solution
+^ TODO logjam board
 ^ Visual: Review became a bottleneck. Things were backing up a lot behind it.
 Someone immediately suggested increasing the WiP limit. Nearly got actioned.
 When we had a conversation about why it happened, it was because people hadn't prioritised it. They hadn't prioritised it, even though it was towards the right of the board, because they weren't clear who exactly should be involved. Some times it was the BA, sometimes the PO. Sometimes it was the developer who walked them through, sometimes the tester. What we actually needed was a better but flexible policy that made it clear.
-^ TODO another slide about WiP?
-^ It does raised the question: what would have happened if we had just ploughed ahead and gone with that first obvious solution: what if we increased WiP to remove the blockage?
+
+---
+
+# What if... WiP Had Been Increased?
+
+
+^ It does raise the question: what would have happened if we had just ploughed ahead and gone with that first obvious solution: what if we increased WiP to remove the blockage?
 It's hard to be certain because we didn't do it, but it probably wouldn't have helped. We'd go from having 2 things blocked in review to mostly having 3 things blocked, with the same systemic problem (i.e. people not understanding their responsibility) plagueing us... but a little bigger.
+
+---
+
+# "What should the WiP limits be for column X?"
+
+## 1?
+
 ^ TODO an aside into WiP for a little more shape.
-^ I've talked about WiP limits a couple of times during this and something I've been asked very often is: "What should the WiP limits be for this column?". Sometimes it's "What should the WiP limits be for this column with these people constraints?". Either way, I have no idea. Really I don't. It's contextual. I know people who have argued that the ideal WiP is 1, right across the board. The idea being that each person does their part, passes to the right and pulls from the left in perfect harmony (TODO pic!). That has some truth in it but fails in reality. Why? The things we work on just aren't that evenly sliced. We should aim for small even slices, but few teams work well enough to nail this. Aiming for small is good. More importantly, the things we work on don't usually take the same length of time. Analysis, development, testing. It's unlikely they'll all take exactly the same length of time on a task, or even out over time. To be clear, I'm not saying one takes longer than the others: it's very task contextual.
+^ I've talked about WiP limits a couple of times during this and something I've been asked very often is: "What should the WiP limits be for this column?". Sometimes it's "What should the WiP limits be for this column with these people constraints?". Either way, I have no idea. Really I don't. It's contextual. I know people who have argued that the ideal WiP is 1, right across the board. The idea being that each person does their part, passes to the right and pulls from the left in perfect harmony (TODO pic!). That has some truth in it but fails in reality.
+
+---
+
+[.build-lists: true]
+
+# "What should the WiP limits be for column X?"
+
+Affected by:
+
+* Slicing of task,
+* Complexity of task,
+* The stage of work (Dev vs test etc)
+* The people doing the work.
+
+etc.
+
+^ Why? The things we work on just aren't that evenly sliced. We should aim for small even slices, but few teams work well enough to nail this. Aiming for small is good. More importantly, the things we work on don't usually take the same length of time. Analysis, development, testing. It's unlikely they'll all take exactly the same length of time on a task, or even out over time. To be clear, I'm not saying one takes longer than the others: it's very task contextual.
+Plus people aren't resources. They can't be interchanged. Different people will take different amounts of time to do the same thing for a while heap of reasons. And even that will vary day to day, dependant on external factors like mood, the weather etc. Don't worry about it.
 
 ---
 
@@ -552,10 +591,13 @@ working. Evolve your board.
 
 ---
 
+![fit](images/Georgia_O'Keeffe_Red_Canna_1919_HMA.jpg)
+
+---
+
 ## “Nothing is less real than realism. Details are confusing. It is only by selection, by elimination, by emphasis, that we get at the real meaning of things.”
 
 ![fit](images/Georgia_O'Keeffe_Red_Canna_1919_HMA.jpg)
-
 
 ---
 
