@@ -27,6 +27,14 @@ body {
   font-size: 150%;
 }
 
+.blocker {
+  background-color: #F00;
+  color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 150%;
+}
+
 .active-space {
   background-color: #39FF14;
   color: #fff;

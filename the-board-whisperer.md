@@ -53,7 +53,6 @@ Importantly, note the lack of detail. The aesthetic choice here is getting close
 
 ![](images/smilies.jpg)
 
-^ TODO Way too many points being made here
 ^ This was made clear to me when observing a number of different teams and seeing how they did standups.
 If you squinted they looked kinda like Daily Scrums, as per the Scrum Framework. But if you looked more closely, or understood Scrum/Agile properly, you realised it really wasn't the same thing.
 They were going round and asking people the three questions (...) but were really only using it as a progress report.
@@ -264,11 +263,12 @@ We had our queues, and people immediately started feeling weird about putting st
 
 # ![inline fit](images/signal.png) Signal: Done, But No Value Yet
 
-^ TODO pull this one for time?
-^ TODO images
+![Inline fit](images/pre-ready-to-celebrate-full.png)
+
 ^ "Done" didn't represent work being in the real world. It just meant
 the team weren't going to add to it or inspect it for the moment. If we wanted
-value, we would have to actually deploy.
+value, we would have to actually deploy. So where should we put stuff between
+finishing it, and putting it live?
 
 ---
 
@@ -293,7 +293,7 @@ value, we would have to actually deploy.
 
 # Answer: Ready to Celebrate
 
-^ TODO image illustrating ready to celebrate
+![Inline fit](images/ready-to-celebrate-full.png)
 
 ^ Limiting WiP here would cause blockage further back, incentivising more frequent releases and, quite quickly, a move to CI/CD
 
@@ -387,6 +387,9 @@ For Dev, we have exit criteria like....
 
 ^ TODO write something about this painting
 ^ Oh, wait, What's this? Well, I guess I'll tell you a bit about this painting...
+^ Called "The Treachery of Images" by René Magritte, a Belgian surrealist, about 10 years after the Georgia O'Keefe painting
+^ Sometimes called "This Is Not A Pipe" because it's not a pipe. It's a drawing. The things we use are representative. They are not the things themselves.
+^ We can relate this to Alfred Korzbyski's work in general semantics.
 
 ^ But you're not here hear about art history..
 
