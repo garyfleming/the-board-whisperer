@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Grid</title>
+  <link rel="stylesheet" type="text/css" href="markers.css" />
+  <style>
+
+.wrapper {
+      width: 520px; /* hacky: 4 columns * (120px width + 10px gap) */
+  }
+
+  .col-to-do {
+      grid-column: 1;
+  }
+  .col-doing {
+      grid-column: 2 ;
+  }
+  .col-playback {
+      grid-column: 3 ;
+  }
+  .col-done {
+      grid-column: 4 ;
+  }
+
+  .header {
+    grid-row: 1;
+  }
+
+  .work1 {
+    grid-row: 2;
+  }
+
+  .work2 {
+    grid-row: 3;
+  }
+
+  .work3 {
+    grid-row: 4;
+  }
+
+  .work4 {
+    grid-row: 5;
+  }
+
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+
+
+
+    <!-- headings -->
+    <div class="header col-to-do">To-Do</div>
+    <div class="header col-doing">Doing (3)</div>
+    <div class="header col-playback">Playback</div>
+    <div class="header col-done">Done</div>
+
+    <div class="ticket col-to-do work1">E</div>
+    <div class="ticket col-to-do work2">F</div>
+
+    <div class="ticket col-doing work1">B</div>
+    <div class="ticket col-doing work2">C</div>
+    <div class="ticket col-doing work3">D</div>
+
+    <div class="ticket col-playback work1">Q</div>
+
+    <div class="ticket col-done work1">A</div>
+
+
+  </div>
+</body>
+</html>

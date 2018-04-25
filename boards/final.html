@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Grid</title>
+  <link rel="stylesheet" type="text/css" href="markers.css" />
+  <style>
+
+.wrapper {
+      width: 1430px; /* hacky: 11 columns * (120px width + 10px gap) */
+  }
+
+  .col-ready-for-analysis {
+      grid-column: 1;
+  }
+  .col-analysis {
+      grid-column: 2 ;
+  }
+  .col-three-amigos {
+      grid-column: 3 ;
+  }
+  .col-ready-for-dev {
+      grid-column: 4;
+  }
+  .col-dev {
+      grid-column: 5;
+  }
+  .col-ready-for-test {
+      grid-column: 6;
+  }
+  .col-test {
+      grid-column: 7;
+  }
+  .col-review {
+      grid-column: 8;
+  }
+  .col-playback {
+      grid-column: 9;
+  }
+  .col-celebrate {
+      grid-column: 10;
+  }
+  .col-done {
+      grid-column: 11;
+  }
+
+  .criteria {
+    grid-row: 1;
+  }
+  .header {
+    grid-row: 2;
+
+  }
+
+  .work1 {
+    grid-row: 3;
+  }
+
+  .work2 {
+    grid-row: 4;
+  }
+
+  .work3 {
+    grid-row: 5;
+  }
+
+  .work4 {
+    grid-row: 6;
+  }
+
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+
+
+
+    <!-- headings -->
+    <div class="criteria col-analysis">Criteria</div>
+    <div class="criteria col-dev">Criteria</div>
+    <div class="criteria col-ready-for-test">Criteria</div>
+    <div class="criteria col-test">Criteria</div>
+
+    <div class="header col-ready-for-analysis">Ready for Analysis</div>
+    <div class="header col-analysis">Analysis</div>
+    <div class="header col-three-amigos">Three Amigos</div>
+    <div class="header col-ready-for-dev">Ready for Dev</div>
+    <div class="header col-dev">Dev</div>
+    <div class="header col-ready-for-test">Ready for Test</div>
+    <div class="header col-test">Test</div>
+    <div class="header col-review">Review</div>
+    <div class="header col-playback">Playback</div>
+    <div class="header col-celebrate">Ready to Celebrate</div>
+    <div class="header col-done">Done</div>
+
+    <div class="inactive-space col-ready-for-analysis work1">&nbsp;</div>
+    <div class="inactive-space col-ready-for-analysis work2">&nbsp;</div>
+    <div class="inactive-space col-ready-for-analysis work3">&nbsp;</div>
+    <div class="inactive-space col-ready-for-analysis work4">&nbsp;</div>
+
+    <div class="active-space col-analysis work1">&nbsp;</div>
+    <div class="active-space col-analysis work2">&nbsp;</div>
+
+    <div class="active-space col-three-amigos work1">&nbsp;</div>
+
+    <div class="inactive-space col-ready-for-dev work1">&nbsp;</div>
+    <div class="inactive-space col-ready-for-dev work2">&nbsp;</div>
+    <div class="inactive-space col-ready-for-dev work3">&nbsp;</div>
+
+    <div class="active-space col-dev work1">&nbsp;</div>
+    <div class="active-space col-dev work2">&nbsp;</div>
+    <div class="active-space col-dev work3">&nbsp;</div>
+
+    <div class="inactive-space col-ready-for-test work1">&nbsp;</div>
+    <div class="inactive-space col-ready-for-test work2">&nbsp;</div>
+
+
+    <div class="active-space col-test work1">&nbsp;</div>
+    <div class="active-space col-test work2">&nbsp;</div>
+
+    <div class="active-space col-review work1">&nbsp;</div>
+    <div class="active-space col-review work2">&nbsp;</div>
+
+    <div class="inactive-space col-playback work1">&nbsp;</div>
+
+    <div class="active-space col-celebrate work1">&nbsp;</div>
+    <div class="active-space col-celebrate work2">&nbsp;</div>
+
+
+
+  </div>
+</body>
+</html>

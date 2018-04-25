@@ -416,7 +416,7 @@ For Dev, we have exit criteria like....
 ^ Oh, wait, What's this? Well, I guess I'll tell you a bit about this painting...
 ^ Called "The Treachery of Images" by René Magritte, a Belgian surrealist, about 10 years after the Georgia O'Keefe painting
 ^ Sometimes called "This Is Not A Pipe" because it's not a pipe. It's a drawing. The things we use are representative. They are not the things themselves.
-^ We can relate this to Alfred Korzbyski's work in general semantics.
+^ We can relate this to Alfred Korzbyski's work in general semantics. The map is not the territory. We need to be able to see that metaphors have limits.
 
 ^ But you're not here hear about art history..
 
@@ -424,7 +424,8 @@ For Dev, we have exit criteria like....
 
 # ![inline fit](images/signal.png) Signal: Log Jam In Review
 
-^ TODO images logjam board
+![inline fit](images/logjam-full.png)
+
 ^ Visual: Review became a bottleneck. Things were backing up a lot behind it.
 Someone immediately suggested increasing the WiP limit. Nearly got actioned.
 When we had a conversation about why it happened, it was because people hadn't prioritised it. They hadn't prioritised it, even though it was towards the right of the board, because they weren't clear who exactly should be involved. Some times it was the BA, sometimes the PO. Sometimes it was the developer who walked them through, sometimes the tester. What we actually needed was a better but flexible policy that made it clear.
@@ -448,8 +449,6 @@ It's hard to be certain because we didn't do it, but it probably wouldn't have h
 
 ---
 
-[.build-lists: true]
-
 # "What should the WiP limits be for column X?"
 
 Affected by:
@@ -463,7 +462,7 @@ etc.
 
 ^ Why? The things we work on just aren't that evenly sliced. We should aim for small even slices, but few teams work well enough to nail this. Aiming for small is good. More importantly, the things we work on don't usually take the same length of time. Analysis, development, testing. It's unlikely they'll all take exactly the same length of time on a task, or even out over time. To be clear, I'm not saying one takes longer than the others: it's very task contextual.
 Plus people aren't resources. They can't be interchanged. Different people will take different amounts of time to do the same thing for a while heap of reasons. And even that will vary day to day, dependant on external factors like mood, the weather etc. Don't worry about it.
-
+<!--
 ---
 
 # ![inline fit](images/signal.png) Signal: Test Blocking
@@ -473,8 +472,8 @@ Plus people aren't resources. They can't be interchanged. Different people will 
 ^ Someone quickly solutionised and said we should get another tester to help with the work. Two people would half the amount of work... this was despite the fact that devs in our team would often do test work. We probably weren't facing a sizing problem.
 ^ So... we had a conversation. It became clear that the tester was taking longer to test because they were having to setup a whole bunch of different things in an isolated environment to properly test. Why was that different than before?
 ^ Well, we had switched from one architectural style (REST APIs) to something else (event-driven over message queues). When we made that change, the developers hadn't created any affordances that would make test easy. System visibility had been lowered. We realised immediately if system visibility was lowered to a tester, then it was going to be difficult to operate in a production environment.
-^ The ultimate solution: actually just spend a bit of time thinking about this as part of analysis. During three amigos, a new question would be asked: "How do we test this?" That way the devs could build something that was testable, and the testers could raise concerns.
-
+^ The ultimate solution: actually just spend a bit of time thinking about this as part of analysis. During three amigos, a new question would be asked: "How do we test this?" That way the devs could build something that was testable, and the testers could raise concerns. -->
+<!--
 ---
 
 # ![inline fit](images/signal.png) Signal: Waves of Work
@@ -487,7 +486,15 @@ Plus people aren't resources. They can't be interchanged. Different people will 
 ^ So let's lower cadence by a few days? How about we just get rid of it? How about we use the board as our signal? The BA/PO are usually looking at what should be next anyway, so how about rather than wait two weeks, we just keep an eye on the board for the signal that we'd need more soon.
 ^ We removed cadence. Gone. We realised  we didn't really need it any more. We were delivering every commit to production already, we *always* had working software, our planning moved to just-in-time. So what was "two weeks" doing for us? Nothing. Absolutely nothing.
 ^ TODO much longer bit about cadence.
-^
+^ -->
+
+---
+
+# Well-Oiled Machine
+
+![](images/auto.jpg)
+
+^ So months went by and other things changed, but as a team we were working well. We understood the work, we had a smooth process, and things generally worked. It was a good time.
 
 ---
 
@@ -496,14 +503,14 @@ Plus people aren't resources. They can't be interchanged. Different people will 
 
 ![original](images/car-on-fire.jpg)
 
-^ So months went by and other things changed, but as a team we were working well. We understood the work, we had a smooth process, and things generally worked. It was a good time.
-
 ---
 
 # ![inline fit](images/signal.png) Signal: Disaster in Discovery
 
-^ TODO visual. Problem. exploration. Solution
+![inline fit](images/disaster-full.png)
+
 ^ The board we had worked well for getting work done (in the sense of producing work), but when we moved into a length discovery phase (weeks) we found it didn't work any more. Items would jump around, they'd skip columns, they'd split into different areas etc. No clear joint up definition of whether the discovery work was analysis or dev, or both.
+The board was telling us it was dying.
 We needed something new...
 
 ---
@@ -527,11 +534,15 @@ a new board. We started from scratch.
 
 # ![inline fit](images/signal.png) Signal: Done in Discovery?
 
+![Inline](images/three-col-full.png)
+
 ^ What did done mean in discovery now? It didn't mean that it was live and adding value. It meant that we had discovered something. But we found things would move to "Done" and then other team members would ask for an explanation, so they could build on that work. It wasn't really done.
 
 ---
 
 # Solution: Playback
+
+![inline fit](images/playback-full.png)
 
 ^ TODO
 like a "Playback" column for when team members discovered something that should
@@ -542,12 +553,16 @@ We weren't "Done" until it had been Played Back
 
 # Back to Big
 
-^ TODO back to big board. Playback came too
+![inline fit](images/final-full.png)
+
+^  When the time was right and we were done with discovery, we went back to big board. Playback came too.
+
+
 
 
 <!--
 
-# Signal: XXXXX
+# ![inline fit](images/signal.png) Signal: XXXXX
 
 ![original fit](images/signal.png)
 
@@ -567,7 +582,6 @@ working. Evolve your board.
 
 ![](images/not-a-pipe.jpg)
 
-^ TODO image. general semantics? the pipe one, maybe?
 ^ There are all sorts of ways to tweak your board, but you have to remember that it's always an abstraction. It's there to help you work. It is not, itself the work.
 
 ---
@@ -613,6 +627,12 @@ working. Evolve your board.
 
 # Thank You
 
-![ left fit ](images/board-whisperer-x.jpg)
+@garyfleming
+
+---
+
+# Thank You
+
+![ right fit ](images/board-whisperer-x.jpg)
 
 @garyfleming
