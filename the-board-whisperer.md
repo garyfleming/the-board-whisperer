@@ -94,8 +94,10 @@ you something useful.
 
 # Flow boards
 
+![original](images/splashing.jpg)
+
 ^ So am I talking about? Let's just say flow boards. Just a way of visualising the flow of work in order to learn some interesting things.
-^ TODO image of river
+
 
 ---
 
@@ -127,7 +129,6 @@ Yes, the falcon represents the tester. This is apt.
 
 ![Inline](images/three-col-full.png)
 
-^ TODO remove wip limits from image?
 ^ Most of the time you should start from where you are: this is try to think about
 what your team actually do and create columns that represent that flow. In this case,
 we were a new team, so we started from nothing. The most "nothing" board is 3-col.
@@ -196,16 +197,14 @@ It's much harder to spot the kinds of signal I'll be talking about on a digital 
 
 # Digital Boards are Analytical
 
-^TODO image: analytical. Maybe an old-skool robot?
+![](images/robot.jpg)
 
 ^ the signals we get are visual. You could possibly achieve the same thing on a digital board, analysing and scrutinising the numbers, but takes longer. Requires more work. Tendency towards shallow analytical thinking (as opposed to having conversations)
 ^ They've done analytical work to find issues, so they are biased towards seeing it as a solution.
 
 ---
 
-# Signal: What's the actual process?
-
-![original fit](images/signal.png)
+# ![inline fit](images/signal.png) Signal: What's the actual process?
 
 ![Inline](images/three-col-full.png)
 
@@ -227,9 +226,7 @@ test column. "Doing" wasn't the only kind of doing any more, so we renamed it
 
 ---
 
-# Signal: TODO
-
-![original fit](images/signal.png)
+# ![inline fit](images/signal.png) Signal: TODO
 
 ![Inline](images/five-col-full.png)
 
@@ -240,9 +237,7 @@ there should be different kinds of to-do.
 
 ---
 
-# Signal: WiP Breaches
-
-![original fit](images/signal.png)
+# ![inline fit](images/signal.png) Signal: WiP Breaches
 
 ![Inline](images/five-col-full.png)
 
@@ -267,11 +262,10 @@ We had our queues, and people immediately started feeling weird about putting st
 
 ---
 
-# Signal: Done, But No Value Yet
-
-![original fit](images/signal.png)
+# ![inline fit](images/signal.png) Signal: Done, But No Value Yet
 
 ^ TODO pull this one for time?
+^ TODO images
 ^ "Done" didn't represent work being in the real world. It just meant
 the team weren't going to add to it or inspect it for the moment. If we wanted
 value, we would have to actually deploy.
@@ -305,18 +299,14 @@ value, we would have to actually deploy.
 
 ---
 
-# Signal: Too Much Rework.
-
-![original fit](images/signal.png)
+# ![inline fit](images/signal.png) Signal: Too Much Rework.
 
 ^ Visual: we found a number of items were getting to test and then getting more rework. We could see this in the developers owning stuff in the test column, or in the blockers.
 Or worse: when the tester said it didn't do X, Y, or Z, the response was the awful...
 
 ---
 
-# Signal: Too Much Rework.
-
-![original fit](images/signal.png)
+# ![inline fit](images/signal.png) Signal: Too Much Rework.
 
 ## "THAT WASN'T IN THE REQUIREMENTS."
 
@@ -357,9 +347,8 @@ Or worse: when the tester said it didn't do X, Y, or Z, the response was the awf
 
 ---
 
-# Signal: "Unfinished" work moving
+# ![inline fit](images/signal.png) Signal: "Unfinished" work moving
 
-![original fit](images/signal.png)
 
 ^ TODO blockers
 
@@ -403,18 +392,16 @@ For Dev, we have exit criteria like....
 
 ---
 
-# Signal: Log Jam In Review
+# ![inline fit](images/signal.png) Signal: Log Jam In Review
 
-![original fit](images/signal.png)
-
-^ TODO logjam board
+^ TODO images logjam board
 ^ Visual: Review became a bottleneck. Things were backing up a lot behind it.
 Someone immediately suggested increasing the WiP limit. Nearly got actioned.
 When we had a conversation about why it happened, it was because people hadn't prioritised it. They hadn't prioritised it, even though it was towards the right of the board, because they weren't clear who exactly should be involved. Some times it was the BA, sometimes the PO. Sometimes it was the developer who walked them through, sometimes the tester. What we actually needed was a better but flexible policy that made it clear.
 
 ---
 
-# What if... WiP Had Been Increased?
+# What if... WiP Limits Had Been Increased?
 
 
 ^ It does raise the question: what would have happened if we had just ploughed ahead and gone with that first obvious solution: what if we increased WiP to remove the blockage?
@@ -449,9 +436,7 @@ Plus people aren't resources. They can't be interchanged. Different people will 
 
 ---
 
-# Signal: Test Blocking
-
-![original fit](images/signal.png)
+# ![inline fit](images/signal.png) Signal: Test Blocking
 
 ^ TODO SPLIT visual. Problem. exploration. Solution
 ^ Things started taking ages in test. Tickets which had been taking a half-day were now taking several days. The effect of this was that the ready for test column filled up and dev backlogged. Why?
@@ -462,9 +447,8 @@ Plus people aren't resources. They can't be interchanged. Different people will 
 
 ---
 
-# Signal: Waves of Work
+# ![inline fit](images/signal.png) Signal: Waves of Work
 
-![original fit](images/signal.png)
 
 ^ TODO visual. Problem. exploration. Solution
 ^ TODO extensive part about cadence
@@ -486,9 +470,7 @@ Plus people aren't resources. They can't be interchanged. Different people will 
 
 ---
 
-# Signal: Disaster in Discovery
-
-![original fit](images/signal.png)
+# ![inline fit](images/signal.png) Signal: Disaster in Discovery
 
 ^ TODO visual. Problem. exploration. Solution
 ^ The board we had worked well for getting work done (in the sense of producing work), but when we moved into a length discovery phase (weeks) we found it didn't work any more. Items would jump around, they'd skip columns, they'd split into different areas etc. No clear joint up definition of whether the discovery work was analysis or dev, or both.
@@ -513,9 +495,7 @@ a new board. We started from scratch.
 
 ---
 
-# Signal: Done in Discovery?
-
-![original fit](images/signal.png)
+# ![inline fit](images/signal.png) Signal: Done in Discovery?
 
 ^ What did done mean in discovery now? It didn't mean that it was live and adding value. It meant that we had discovered something. But we found things would move to "Done" and then other team members would ask for an explanation, so they could build on that work. It wasn't really done.
 
