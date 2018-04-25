@@ -301,6 +301,8 @@ finishing it, and putting it live?
 
 # ![inline fit](images/signal.png) Signal: Too Much Rework.
 
+![Inline fit](images/rework-full.png)
+
 ^ Visual: we found a number of items were getting to test and then getting more rework. We could see this in the developers owning stuff in the test column, or in the blockers.
 Or worse: when the tester said it didn't do X, Y, or Z, the response was the awful...
 
