@@ -6,7 +6,7 @@
   <style>
 
 .wrapper {
-      width: 1040px; /* hacky: 8 columns * (120px width + 10px gap) */
+      width: 1170px; /* hacky: 9 columns * (120px width + 10px gap) */
   }
 
   .col-ready-for-analysis {
@@ -15,23 +15,26 @@
   .col-analysis {
       grid-column: 2 ;
   }
-  .col-ready-for-dev {
-      grid-column: 3;
+  .col-three-amigos {
+      grid-column: 3 ;
   }
-  .col-dev {
+  .col-ready-for-dev {
       grid-column: 4;
   }
-  .col-ready-for-test {
+  .col-dev {
       grid-column: 5;
   }
-  .col-test {
+  .col-ready-for-test {
       grid-column: 6;
   }
-  .col-celebrate {
+  .col-test {
       grid-column: 7;
   }
-  .col-done {
+  .col-celebrate {
       grid-column: 8;
+  }
+  .col-done {
+      grid-column: 9;
   }
 
   .header {
@@ -65,6 +68,7 @@
     <!-- headings -->
     <div class="header col-ready-for-analysis">Ready for Analysis</div>
     <div class="header col-analysis">Analysis</div>
+    <div class="header col-three-amigos">Three Amigos</div>
     <div class="header col-ready-for-dev">Ready for Dev</div>
     <div class="header col-dev">Dev</div>
     <div class="header col-ready-for-test">Ready for Test</div>
@@ -80,6 +84,8 @@
     <div class="active-space col-analysis work1">&nbsp;</div>
     <div class="active-space col-analysis work2">&nbsp;</div>
 
+    <div class="active-space col-three-amigos work1">&nbsp;</div>
+
     <div class="inactive-space col-ready-for-dev work1">&nbsp;</div>
     <div class="inactive-space col-ready-for-dev work2">&nbsp;</div>
     <div class="inactive-space col-ready-for-dev work3">&nbsp;</div>
@@ -91,10 +97,10 @@
     <div class="inactive-space col-ready-for-test work1">&nbsp;</div>
     <div class="inactive-space col-ready-for-test work2">&nbsp;</div>
 
-    <div class="blocker col-test work1">Ticket</div>
-    <div class="blocker col-test work2">Ticket</div>
+    <div class="active-space col-test work1">&nbsp;</div>
+    <div class="active-space col-test work2">&nbsp;</div>
 
-    <div class="active-space col-celebrate work1">&nbsp;</div>
+    <div class="ticket col-celebrate work1">&nbsp;</div>
     <div class="active-space col-celebrate work2">&nbsp;</div>
 
 

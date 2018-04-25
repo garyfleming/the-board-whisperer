@@ -93,9 +93,17 @@ you something useful.
 
 # Flow boards
 
-![original](images/splashing.jpg)
+![](images/splashing.jpg)
 
 ^ So am I talking about? Let's just say flow boards. Just a way of visualising the flow of work in order to learn some interesting things.
+
+---
+
+# "We Had A Conversation"
+
+![](images/rafting.jpg)
+
+^ Be prepared to hear this phrase a lot in this talk. Not to spoil anything but if your teams can gain any superpower it's that they'd do better having a whole lot more conversations. The work is NOT typing away frantically on our own; it's working as a team so we can all go collectively faster.
 
 
 ---
@@ -319,9 +327,9 @@ Or worse: when the tester said it didn't do X, Y, or Z, the response was the awf
 
 # Answer: Three Amigos
 
-## 🧐🤓😇
+![original](images/sparrows.jpg)
 
-^ TODO image: three amigos board!
+
 ^ The way we get passed this is by having conversations. You need some Three Amigos at the start. You can pick your methodology as you like but you can avoid these kinds of blockers by having a three-way conversation between a developer, tester, and product owner (or sometimes BA) upfront. Make sure everyone understood and could contribute to the shaping of a story ahead of time. This meant far fewer issues later.
 
 ---
@@ -337,12 +345,15 @@ Or worse: when the tester said it didn't do X, Y, or Z, the response was the awf
 
 # Useful signal: Three Amigos Bottleneck
 
-^ TODO image: three amigos board!
+![Inline fit](images/three-amigos-full.png)
+
 ^ It's also worth calling out a signal we were inserting into the board here: there is no queue column between Analysis and Three Amigos. We decided to make it explicit in our process that the conversation was important and should happen as a priority. Not being able to queue does that.
 
 ---
 
 # Useful signal: Three Amigos Bottleneck
+
+![Inline fit](images/three-amigos-full.png)
 
 ^ If something sits in Three Amigos for any length of time, the bottleneck forms and we see that communication isn't working the way we wanted. We have a conversation.
 
@@ -351,12 +362,15 @@ Or worse: when the tester said it didn't do X, Y, or Z, the response was the awf
 
 # ![inline fit](images/signal.png) Signal: "Unfinished" work moving
 
+![inline fit](images/unfinished-work-moving-full.png)
 
-^ TODO blockers
+^ A while later, we were spotting this pattern too frequently: blockers right the way across the board. Always in active columns. Why? It could be a few things, like external dependencies slowing things down, but we had a conversation.
+^ Depending on things like the complexity of the story, people had a varying view of what it meant to be done. Was development done when the code was done? Or when it was documented? Or when the build passed on a CI server?
+
 
 ---
 
-# Answer: Exit Criteria
+# Answer: Push Criteria
 
 * "All tests must pass"
 * "Code review must be complete, unless pairing"
@@ -369,10 +383,22 @@ For Dev, we have exit criteria like....
 
 ---
 
+# Answer: Pull Criteria
+
+* "Ready for Test -> Test: I've had a chat with the developer to learn about any issues"
+* "It's the highest value item in the column"
+
+^ There are other criteria for pulling items.
+
+
+---
+
 # Shared Ownership through Conversations
 
-^ TODO image: hmm... ownership? collaboration? conversation?
+![](images/hands.jpg)
+
 ^ Importantly, and predictably, how do we come up with exit criteria? We have a conversation. The team, as a whole, agrees on the criteria and enforces it collectively. Shared ownership through conversations. It's hard to feel like you own something if you didn't have input into the rules.
+^ That is, people are less likely to ignore them if they own them.
 
 ---
 
@@ -387,7 +413,6 @@ For Dev, we have exit criteria like....
 
 ![original](images/not-a-pipe.jpg)
 
-^ TODO write something about this painting
 ^ Oh, wait, What's this? Well, I guess I'll tell you a bit about this painting...
 ^ Called "The Treachery of Images" by René Magritte, a Belgian surrealist, about 10 years after the Georgia O'Keefe painting
 ^ Sometimes called "This Is Not A Pipe" because it's not a pipe. It's a drawing. The things we use are representative. They are not the things themselves.
