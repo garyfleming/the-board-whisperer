@@ -11,6 +11,14 @@ body {
     color: #444;
 }
 
+.criteria {
+  background-color: #444;
+  color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 150%;
+}
+
 .header {
   background-color: #444;
   color: #fff;

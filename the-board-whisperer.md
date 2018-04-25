@@ -404,10 +404,10 @@ For Dev, we have exit criteria like....
 
 # ... Exit Criteria On the Board
 
-![Inline](d.jpg)
+![inline fit](images/exit-criteria-full.png)
 
 ^ TODO image: exit criteria
-^ That's what that looks like on the board.
+^ Just shove them on cards above the board. Revisit them periodically to make sure they still apply and there's nothing missing.
 
 ---
 
