@@ -18,7 +18,7 @@ Importantly, note the lack of detail. The aesthetic choice here is getting close
 
 ---
 
-> “Nothing is less real than realism. Details are confusing. It is only by selection, by elimination, by emphasis, that we get at the real meaning of things.”
+## “Nothing is less real than realism. Details are confusing. It is only by selection, by elimination, by emphasis, that we get at the real meaning of things.”
 
 ![fit](images/Georgia_O'Keeffe_Red_Canna_1919_HMA.jpg)
 
@@ -65,7 +65,7 @@ It was project management, not anything that generated useful insights.
 
 ![](images/glasses.jpg)
 
-^ So I'm going to show you how to use boards to generate insights into making things better with your process and people. How to hear the signals it is sending, and start turning them into change.
+^ So I'm going to show you how to use boards to generate insights into making things better with your process and people. How to hear the signals it is sending, and start turning them into valuable change.
 
 ---
 
@@ -95,7 +95,13 @@ you something useful.
 
 ![](images/splashing.jpg)
 
-^ So am I talking about? Let's just say flow boards. Just a way of visualising the flow of work in order to learn some interesting things.
+^ So what am I talking about? Let's just say flow boards. Just a way of visualising the flow of work in order to learn some interesting things.
+
+---
+
+# Flow Forwards
+
+^ A small but important caveat is that flow is one way. Things only go left to right, never backwards, even if something goes wrong...
 
 ---
 
@@ -105,6 +111,11 @@ you something useful.
 
 ^ Be prepared to hear this phrase a lot in this talk. Not to spoil anything but if your teams can gain any superpower it's that they'd do better having a whole lot more conversations. The work is NOT typing away frantically on our own; it's working as a team so we can all go collectively faster.
 
+---
+
+# Meetings Are Not Conversations
+
+^ Let's be clear: conversations are enjoyable, mutual, fun, light. Most meetings aren't.
 
 ---
 
@@ -121,7 +132,7 @@ you something useful.
 
 ^ So, we formed a new team
 ^ This is your typical agile team with a PO, BA, Developers, and a tester
-Yes, the falcon represents the tester. This is apt.
+Yes, the falcon represents the tester. This is apt. They're like birds of prey looking for bugs.
 
 ---
 
@@ -136,7 +147,7 @@ Yes, the falcon represents the tester. This is apt.
 
 ![Inline](images/three-col-full.png)
 
-^ Most of the time you should start from where you are: this is try to think about
+^ Most of the time you should start from where you are: try to think about
 what your team actually do and create columns that represent that flow. In this case,
 we were a new team, so we started from nothing. The most "nothing" board is 3-col.
 Simple representation: to-do, doing (3), done.
@@ -162,7 +173,14 @@ the number of items in that column. By doing this we're able to see and manage t
 of work.
 If the WiP limit is reached and we want to do more, it gives us the opportunity,
  the SIGNAL, to have a conversation.
-If we learn something new in the process of doing the work, it means we only have
+
+---
+
+# Work-in-Progress (WiP) Limits
+
+![Inline](images/three-col-full.png)
+
+^ If we learn something new in the process of doing the work, it means we only have
 so much in progress that gets wasted if we change our mind.
 WiP represents undelivered value. We want to deliver value.
 We initially picked 3 because we had 6 developers and we intended to pair.
@@ -206,7 +224,7 @@ It's much harder to spot the kinds of signal I'll be talking about on a digital 
 
 ![](images/robot.jpg)
 
-^ the signals we get are visual. You could possibly achieve the same thing on a digital board, analysing and scrutinising the numbers, but takes longer. Requires more work. Tendency towards shallow analytical thinking (as opposed to having conversations)
+^ The signals we get are visual. You could possibly achieve the same thing on a digital board, analysing and scrutinising the numbers, but takes longer. Requires more work. Tendency towards shallow analytical thinking (as opposed to having conversations)
 ^ They've done analytical work to find issues, so they are biased towards seeing it as a solution.
 
 ---
@@ -259,7 +277,7 @@ there should be different kinds of to-do.
 ^ Hence, we added in queues before active columns To help differentiate between the two columns, and to visualise the WiP Limits
 we started using coloured index cards. Red for a queue, green for an active column,
 number of cards is WiP.
-We had our queues, and people immediately started feeling weird about putting stuff outside the boundaries of a card.
+This had an immediate effect...
 
 ---
 
@@ -311,7 +329,7 @@ finishing it, and putting it live?
 
 ![Inline fit](images/rework-full.png)
 
-^ Visual: we found a number of items were getting to test and then getting more rework. We could see this in the developers owning stuff in the test column, or in the blockers.
+^ Visual: we found a number of items were getting to test and then getting more rework. We could see this in the developers owning stuff in the test column, or in the blockers. (Flow never goes backwards)
 Or worse: when the tester said it didn't do X, Y, or Z, the response was the awful...
 
 ---
@@ -331,6 +349,15 @@ Or worse: when the tester said it didn't do X, Y, or Z, the response was the awf
 
 
 ^ The way we get passed this is by having conversations. You need some Three Amigos at the start. You can pick your methodology as you like but you can avoid these kinds of blockers by having a three-way conversation between a developer, tester, and product owner (or sometimes BA) upfront. Make sure everyone understood and could contribute to the shaping of a story ahead of time. This meant far fewer issues later.
+
+
+---
+
+# Answer: Three Amigos
+
+## Do the work, check the work, ensure the work is wanted
+
+^ Now I'm saying dev, test, and PO, but you just need someone who can do the work, who can check the work is done,
 
 ---
 
@@ -414,9 +441,10 @@ For Dev, we have exit criteria like....
 ![original](images/not-a-pipe.jpg)
 
 ^ Oh, wait, What's this? Well, I guess I'll tell you a bit about this painting...
-^ Called "The Treachery of Images" by René Magritte, a Belgian surrealist, about 10 years after the Georgia O'Keefe painting
 ^ Sometimes called "This Is Not A Pipe" because it's not a pipe. It's a drawing. The things we use are representative. They are not the things themselves.
 ^ We can relate this to Alfred Korzbyski's work in general semantics. The map is not the territory. We need to be able to see that metaphors have limits.
+^ Called "The Treachery of Images" by René Magritte, a Belgian surrealist, about 10 years after the Georgia O'Keefe painting
+
 
 ^ But you're not here hear about art history..
 
@@ -461,7 +489,13 @@ Affected by:
 etc.
 
 ^ Why? The things we work on just aren't that evenly sliced. We should aim for small even slices, but few teams work well enough to nail this. Aiming for small is good. More importantly, the things we work on don't usually take the same length of time. Analysis, development, testing. It's unlikely they'll all take exactly the same length of time on a task, or even out over time. To be clear, I'm not saying one takes longer than the others: it's very task contextual.
-Plus people aren't resources. They can't be interchanged. Different people will take different amounts of time to do the same thing for a while heap of reasons. And even that will vary day to day, dependant on external factors like mood, the weather etc. Don't worry about it.
+
+---
+
+# People != Resources
+
+^ Plus people aren't resources. They can't be interchanged. Different people will take different amounts of time to do the same thing for a while heap of reasons. And even that will vary day to day, dependant on external factors like mood, the weather etc. Don't worry about it.
+
 <!--
 ---
 
