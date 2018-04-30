@@ -26,4 +26,4 @@ Then run it:
 
 `sh ./generate-images.sh`
 
-Images will automagically pop-up in the images directory.
+Images will automagically pop-up in the images directory, with a "-full" suffix.
