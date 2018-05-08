@@ -1,9 +1,6 @@
 # Possible TODOs
 
-* LogJam in review tweak: It wasn't clear initially that WiP would be a false solution, then we'd discuss  the real solution, but then try to figure out what would happen if we had just done the WiP limit change
-* At the end, talk about the standup dysfunction again - Work the board, right to left ("What do we need to do to get *this* task over the line"). Not the people.
 * Consider coming up with a couple of Key Points to form the structure. Might be an interesting thought exercise, at least
-* Tweak: move the evolve your board back a bit.
 * Make it clear that flow is a linearisation of a feedback loop: https://janetgregory.ca/shift-left-why-i-dont-like-the-term/
 * Staging, as in films/plays, as a metaphor for movement and placement around a board.
 * What does boring look like? When is the board not telling us anything? Perfect single-piece flow, maybe, but that's unlikely. Usually telling us something. We can usually improve. Makes it somewhat harder to spot signals if there are always signals.

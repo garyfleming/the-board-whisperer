@@ -450,7 +450,7 @@ For Dev, we have exit criteria like....
 
 ---
 
-# ![inline fit](images/signal.png) Signal: Log Jam In Review
+# ![inline fit](images/signal.png) Signal Experiment: Log Jam In Review
 
 ![inline fit](images/logjam-full.png)
 
@@ -464,7 +464,7 @@ When we had a conversation about why it happened, it was because people hadn't p
 
 
 ^ It does raise the question: what would have happened if we had just ploughed ahead and gone with that first obvious solution: what if we increased WiP to remove the blockage?
-It's hard to be certain because we didn't do it, but it probably wouldn't have helped. We'd go from having 2 things blocked in review to mostly having 3 things blocked, with the same systemic problem (i.e. people not understanding their responsibility) plagueing us... but a little bigger.
+It's hard to be certain because we didn't do it, but it probably wouldn't have helped. We'd go from having 2 things blocked in review to mostly having 3 things blocked, with the same systemic problem (i.e. people not understanding their responsibility) plaguing us... but a little bigger.
 
 ---
 
@@ -602,13 +602,33 @@ We weren't "Done" until it had been Played Back
 
 ^ TODO visual. Problem. exploration. Solution -->
 
+---
+
+# The Stand-Up Dysfunction Revisited
+
+![original](images/smilies.jpg)
+
+
+^ So, we've got a better board. How does that help the stand-up? Hopefully we can see now that the board isn't just a description. It represents the understanding of work and HOW we work. And that's mostly human interaction.
+
 
 ---
 
-# Evolve Your Board
+[.build-lists: true]
 
-^ Look for pain points, signals, wip breaches. Look for signs things aren't
-working. Evolve your board.
+# The Stand-Up Dysfunction Revisited
+
+![](images/smilies.jpg)
+
+* A human process.
+* Conversations (right to left).
+* An accurate enough board.
+
+^ We solve the stand-up but having seeing it as a human process. This is about people, not the tickets.
+^ By having conversations. Work the board right to left, to have conversations about the most valuable things. Not people justifying their existence.
+^ Having an accurate enough board. 
+
+
 
 ---
 
@@ -617,6 +637,14 @@ working. Evolve your board.
 ![](images/not-a-pipe.jpg)
 
 ^ There are all sorts of ways to tweak your board, but you have to remember that it's always an abstraction. It's there to help you work. It is not, itself the work.
+
+
+---
+
+# Evolve Your Board, Evolve Your Team.
+
+^ Look for pain points, signals, wip breaches. Look for signs things aren't
+working. Evolve your board. Evolve your team.
 
 ---
 
