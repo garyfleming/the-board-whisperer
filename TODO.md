@@ -2,6 +2,11 @@
 
 * Consider coming up with a couple of Key Points to form the structure. Might be an interesting thought exercise, at least
 * Make it clear that flow is a linearisation of a feedback loop: https://janetgregory.ca/shift-left-why-i-dont-like-the-term/
+* Make it clearer how the board **visually** signalled each issue.
+* maybe describe the talk near the start as being kind of a kata and kind of a catalogue: I'll show you the moves we made when facing different situations so that you can feel the movement. It doesn't meant they're applicable in your situation, but if you can see the thinking maybe you can start to apply that.
+*  Split board structure signals and work movement signals into separate halves. Use staging/movement as metaphor here.
+*  midway-ish: what we’ve done to this point is flush out our rough process in terms of steps we take. We started somewhere (3-col) and iterated until we got this. Now let’s go looking for other kinds of signals
+*  playback and wip blocked markers
 * Staging, as in films/plays, as a metaphor for movement and placement around a board.
 * What does boring look like? When is the board not telling us anything? Perfect single-piece flow, maybe, but that's unlikely. Usually telling us something. We can usually improve. Makes it somewhat harder to spot signals if there are always signals.
 * Signal: irregular flow at certain points might indicate good point to remove cadence. Particularly around early phase/planning.

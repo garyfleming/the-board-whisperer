@@ -1,11 +1,5 @@
 theme: Sketchnote, 1
 
-^ TODO Make it clearer how the board **visually** signalled each issue.
-^ TODO maybe describe the talk near the start as being kind of a kata and kind of a catalogue: I'll show you the moves we made when facing different situations so that you can feel the movement. It doesn't meant they're applicable in your situation, but if you can see the thinking maybe you can start to apply that.
-^ TODO Split board structure signals and work movement signals into separate halves. Use staging/movement as metaphor here.
-^ TODO midway-ish: what we’ve done to this point is flush out our rough process in terms of steps we take. We started somewhere (3-col) and iterated until we got this. Now let’s go looking for other kinds of signals
-^ TODO playback and wip blocked markers
-
 
 ![fit](images/Georgia_O'Keeffe_Red_Canna_1919_HMA.jpg)
 
@@ -115,7 +109,7 @@ you something useful.
 
 # Meetings Are Not Conversations
 
-^ Let's be clear: conversations are enjoyable, mutual, fun, light. Most meetings aren't.
+^ Let's be clear: conversations are enjoyable, mutual, fun, light. Most meetings aren't; slow, painful, a drudge on the soul.
 
 ---
 
@@ -248,6 +242,7 @@ The board was giving us another signal: that we didn't understand our process ye
 ^ So we had a difficult conversation and realised that we'd need an analysis and
 test column. "Doing" wasn't the only kind of doing any more, so we renamed it
 "dev".
+WiP Limits set by team, having explained WiP and value.
 
 ---
 
@@ -257,7 +252,7 @@ test column. "Doing" wasn't the only kind of doing any more, so we renamed it
 
 ^ At roughly the same time, we realised that
 "To-do" was going to have to change. It used to mean "stuff that was waiting for
-someone to pick it up, but there were different kinds of being picked up meaning
+someone to pick it up", but there were different kinds of being picked up meaning
 there should be different kinds of to-do.
 
 ---
@@ -329,7 +324,9 @@ finishing it, and putting it live?
 
 ![Inline fit](images/rework-full.png)
 
-^ Visual: we found a number of items were getting to test and then getting more rework. We could see this in the developers owning stuff in the test column, or in the blockers. (Flow never goes backwards)
+^ Visual:
+We could the developers owning a lot of stuff in the test column, or in the blockers. (Flow never goes backwards)
+We found a number of items were getting to test and then getting more rework.
 Or worse: when the tester said it didn't do X, Y, or Z, the response was the awful...
 
 ---
@@ -355,9 +352,9 @@ Or worse: when the tester said it didn't do X, Y, or Z, the response was the awf
 
 # Answer: Three Amigos
 
-## Do the work, check the work, ensure the work is wanted
+## Ensure the work is wanted, Do the work, check the work, ensure the work is wanted (again)
 
-^ Now I'm saying dev, test, and PO, but you just need someone who can do the work, who can check the work is done,
+^ Now I'm saying dev, test, and PO, but you just need someone who can do the work, who can check the work is done, and someone who can ensure the work is wanted (at the start and the end, preferably)
 
 ---
 
@@ -446,7 +443,7 @@ For Dev, we have exit criteria like....
 ^ Called "The Treachery of Images" by René Magritte, a Belgian surrealist, about 10 years after the Georgia O'Keefe painting
 
 
-^ But you're not here hear about art history..
+^ But you're not here to hear about art history..
 
 ---
 
@@ -578,8 +575,7 @@ a new board. We started from scratch.
 
 ![inline fit](images/playback-full.png)
 
-^ TODO
-like a "Playback" column for when team members discovered something that should
+^ like a "Playback" column for when team members discovered something that should
 be shared with the team.
 We weren't "Done" until it had been Played Back
 
@@ -624,9 +620,9 @@ We weren't "Done" until it had been Played Back
 * Conversations (right to left).
 * An accurate enough board.
 
-^ We solve the stand-up but having seeing it as a human process. This is about people, not the tickets.
+^ We solve the stand-up by seeing it as a human process. This is about people, not the tickets.
 ^ By having conversations. Work the board right to left, to have conversations about the most valuable things. Not people justifying their existence.
-^ Having an accurate enough board. 
+^ Having an accurate enough board.
 
 
 
