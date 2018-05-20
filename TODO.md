@@ -1,6 +1,7 @@
 # Possible TODOs
 
 * Consider coming up with a couple of Key Points to form the structure. Might be an interesting thought exercise, at least
+* Explain that WiP limits help people break silos. Forces them to move beyond "their" column and look at fixing flow across the board.
 * Make it clear that flow is a linearisation of a feedback loop: https://janetgregory.ca/shift-left-why-i-dont-like-the-term/
 * Make it clearer how the board **visually** signalled each issue.
 * maybe describe the talk near the start as being kind of a kata and kind of a catalogue: I'll show you the moves we made when facing different situations so that you can feel the movement. It doesn't meant they're applicable in your situation, but if you can see the thinking maybe you can start to apply that.
