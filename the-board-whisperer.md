@@ -125,8 +125,9 @@ you something useful.
 ![original](images/team.jpg)
 
 ^ So, we formed a new team
-^ This is your typical agile team with a PO, BA, Developers, and a tester
-Yes, the falcon represents the tester. This is apt. They're like birds of prey looking for bugs.
+^ This is your typical agile team with a PO, tester, Developers, and an agile coach.
+Yes, the falcon represents the agile coach. This is apt. They're like birds: circling above, trying to be useful, but mostly mindlessly pooping on things below.
+As an agile coach, I can make that joke.
 
 ---
 
