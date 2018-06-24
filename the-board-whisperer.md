@@ -55,7 +55,7 @@ It was project management, not anything that generated useful insights.
 
 ---
 
-# Boards Offer Insight
+# ![inline fit](images/signal.png) Boards Offer Insight
 
 ![](images/glasses.jpg)
 
@@ -95,7 +95,9 @@ you something useful.
 
 # Flow Forwards
 
-^ A small but important caveat is that flow is one way. Things only go left to right, never backwards, even if something goes wrong...
+![](images/salmon.jpg)
+
+^ A small but important caveat is that flow is one way. Things only go left to right, never backwards, even if something goes wrong... your work items aren't salmon
 
 ---
 
@@ -110,6 +112,8 @@ you something useful.
 # Meetings Are Not Conversations
 
 ^ Let's be clear: conversations are enjoyable, mutual, fun, light. Most meetings aren't; slow, painful, a drudge on the soul.
+
+^ You don't get together with friends for meetings
 
 ---
 
@@ -126,7 +130,7 @@ you something useful.
 
 ^ So, we formed a new team
 ^ This is your typical agile team with a PO, tester, Developers, and an agile coach.
-Yes, the falcon represents the agile coach. This is apt. They're like birds: circling above, trying to be useful, but mostly mindlessly pooping on things below.
+Yes, the falcon represents the agile coach. This is apt. They're like birds: circling above, trying to look majestic, but mostly mindlessly pooping on things below.
 As an agile coach, I can make that joke.
 
 ---
@@ -159,7 +163,7 @@ side of the board to another. Not part of the way. The whole way. There is no pa
 
 ---
 
-# Work-in-Progress (WiP) Limits
+# Work-in-Progress (WiP) Limits ![inline fit](images/signal.png)
 
 ![Inline](images/three-col-full.png)
 
@@ -182,7 +186,7 @@ We initially picked 3 because we had 6 developers and we intended to pair.
 
 ---
 
-# Signals
+# ![inline fit](images/signal.png) Signals
 
 ![original](images/sotc-signal.jpg)
 
@@ -193,7 +197,7 @@ You need to be attentive to places where your board isn't giving you enough info
 
 [.build-lists: true]
 
-# Signals
+# ![inline fit](images/signal.png) Signals
 
 ![original](images/sotc-signal.jpg)
 
@@ -206,7 +210,7 @@ You need to be attentive to places where your board isn't giving you enough info
 
 ---
 
-# Physical Boards Are Signalling
+# Physical Boards Are Signalling ![inline fit](images/signal.png)
 
 ![original](images/uc4-crowd.jpg)
 
