@@ -639,6 +639,20 @@ We weren't "Done" until it had been Played Back
 
 ^ There are all sorts of ways to tweak your board, but you have to remember that it's always an abstraction. It's there to help you work. It is not, itself the work.
 
+---
+
+# No Recipes for Evolving But...
+
+* Items not flowing,
+* Columns blocking,
+* Gaps in the flow,
+* Odd movement (skipping),
+* Starvation or abundance,
+* Clustering,
+
+And many more...
+
+^ You're looking for anything that isn't a smooth even flow. Doesn't mean there is an issue, but worth taking a look.
 
 ---
 
@@ -699,3 +713,11 @@ working. Evolve your board. Evolve your team.
 ![ right fit ](images/board-whisperer-x.jpg)
 
 @garyfleming
+
+---
+
+# Common Question
+## What do we do when we're remote/distributed?
+
+^ This is harder. If you have 2 sites, try to split the work appropriately to minimise dependency. Replicate the physical board via a digital board.
+^ If you're fully distributed, it's really hard. You lose a lot of physical signals and have to rely more on the digital tooling.
