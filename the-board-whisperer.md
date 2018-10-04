@@ -1,4 +1,5 @@
 theme: Sketchnote, 1
+footer: @garyfleming
 
 
 ![fit](images/Georgia_O'Keeffe_Red_Canna_1919_HMA.jpg)
@@ -10,7 +11,11 @@ The picture here is called "Red Canna 1919", one of many she painted of flowers 
 Note the bold shapes and bright colours and the magnified appearance.
 Importantly, note the lack of detail. The aesthetic choice here is getting close but staying big picture.
 
+[.hide-footer]
+
 ---
+
+[.hide-footer]
 
 ## “Nothing is less real than realism. Details are confusing. It is only by selection, by elimination, by emphasis, that we get at the real meaning of things.”
 
@@ -21,15 +26,22 @@ Importantly, note the lack of detail. The aesthetic choice here is getting close
 
 ---
 
+[.hide-footer]
+
 # The Board Whisperer
 
 @garyfleming
+
+http://bit.ly/the-board-whisperer
 
 ![](images/whiteboard.png)
 
 ^ Introduce myself. What I do. Title.
 
+
 ---
+
+[.hide-footer]
 
 # The Board Whisperer
 ## (Roll credits)
@@ -37,6 +49,8 @@ Importantly, note the lack of detail. The aesthetic choice here is getting close
 ![](images/whiteboard.png)
 
 @garyfleming
+
+http://bit.ly/the-board-whisperer
 
 ^ I was going to create a title image where I took the poster from the film The Horse Whisperer, with Robert Redford, and crudely photoshopped in a whiteboard but... I'm not very good at photoshop
 ^ This talk is about boards. Or it's about work. Or it's about how boards show us better ways of working but we mostly ignore them.
@@ -62,6 +76,8 @@ It was project management, not anything that generated useful insights.
 ^ So I'm going to show you how to use boards to generate insights into making things better with your process and people. How to hear the signals it is sending, and start turning them into valuable change.
 
 ---
+
+[.hide-footer]
 
 # R U XPRNC'D?
 
@@ -160,6 +176,14 @@ Simple representation: to-do, doing (3), done.
 ^ Teams job is to deliver value. They do that by getting items that have been
 prioritised as having value done. That means getting it completely, from one
 side of the board to another. Not part of the way. The whole way. There is no partial credit.
+
+---
+
+# Whole Team Responsibility
+
+![Inline](images/three-col-full.png)
+
+^ Now, to be clear, it's the whole team's responsibility to get items the whole way across the board. Yes, people have specialisms, like testing or developing, but we prefer people to work together and complete the work.
 
 ---
 
@@ -440,6 +464,8 @@ For Dev, we have exit criteria like....
 
 ---
 
+[.hide-footer]
+
 ![original](images/not-a-pipe.jpg)
 
 ^ Oh, wait, What's this? Well, I guess I'll tell you a bit about this painting...
@@ -641,6 +667,8 @@ We weren't "Done" until it had been Played Back
 
 ---
 
+[.hide-footer]
+
 # No Recipes for Evolving But...
 
 * Items not flowing,
@@ -706,6 +734,8 @@ working. Evolve your board. Evolve your team.
 
 @garyfleming
 
+http://bit.ly/the-board-whisperer
+
 ---
 
 # Thank You
@@ -713,6 +743,8 @@ working. Evolve your board. Evolve your team.
 ![ right fit ](images/board-whisperer-x.jpg)
 
 @garyfleming
+
+http://bit.ly/the-board-whisperer
 
 ---
 
