@@ -69,6 +69,14 @@ It was project management, not anything that generated useful insights.
 
 ---
 
+# The Death Spiral of Justification
+
+![](images/skull.jpg)
+
+^ It makes the stand-up have less value. People feel the need to justify their existence. They will talk at length to show they are valuable, robbing the stand-up of its value in the process
+
+---
+
 # ![inline fit](images/signal.png) Boards Offer Insight
 
 ![](images/glasses.jpg)
@@ -470,7 +478,7 @@ For Dev, we have exit criteria like....
 
 ^ Oh, wait, What's this? Well, I guess I'll tell you a bit about this painting...
 ^ Sometimes called "This Is Not A Pipe" because it's not a pipe. It's a drawing. The things we use are representative. They are not the things themselves.
-^ We can relate this to Alfred Korzbyski's work in general semantics. The map is not the territory. We need to be able to see that metaphors have limits.
+^ We can relate this to Alfred Korzybski's work in general semantics. The map is not the territory. We need to be able to see that metaphors have limits.
 ^ Called "The Treachery of Images" by René Magritte, a Belgian surrealist, about 10 years after the Georgia O'Keefe painting
 
 
