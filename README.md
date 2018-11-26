@@ -18,7 +18,10 @@ At this point in Agile's lifecycle, many teams have switched to using a Kanban B
 
 ## Video
 
-There is a recording of this talk from Agile Cambridge 2018, available: https://vimeo.com/293194017/44e0ac75aa
+There are several recordings of this talk available
+* Agile Cambridge 2018: https://vimeo.com/293194017/44e0ac75aa
+* Lean Agile Scotland 2018:
+https://vimeo.com/299161275
 
 ## Build
 
