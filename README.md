@@ -16,6 +16,10 @@ In a new team, we started with a three-column standard to something that fits us
 
 At this point in Agile's lifecycle, many teams have switched to using a Kanban Board. Some are simple, three-column trackers; others are considerably more involved. Yet, many teams don't know how to stop for a moment and _listen_ to their board. It's gently trying to nudge them about the changes that it needs to make them a better team. Come along and learn how we can go from simple to just complicated enough, smoothly.
 
+## Video
+
+There is a recording of this talk from Agile Cambridge 2018, available: https://vimeo.com/293194017/44e0ac75aa
+
 ## Build
 
 The board diagrams are HTML and CSS Grid that live in the boards directory. To turn them into images, install webkit2png:

@@ -227,8 +227,6 @@ You need to be attentive to places where your board isn't giving you enough info
 
 ---
 
-[.build-lists: true]
-
 # ![inline fit](images/signal.png) Signals
 
 ![original](images/sotc-signal.jpg)
@@ -648,8 +646,6 @@ We weren't "Done" until it had been Played Back
 
 
 ---
-
-[.build-lists: true]
 
 # The Stand-Up Dysfunction Revisited
 
