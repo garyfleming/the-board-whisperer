@@ -757,3 +757,10 @@ http://bit.ly/the-board-whisperer
 
 ^ This is harder. If you have 2 sites, try to split the work appropriately to minimise dependency. Replicate the physical board via a digital board.
 ^ If you're fully distributed, it's really hard. You lose a lot of physical signals and have to rely more on the digital tooling.
+
+---
+
+# Common Question
+## Why can't items flow backwards?
+
+^ Items flowing backwards mess up a bunch of the visual feedback (and some of the metrics). Hard to see stuff blocking etc.
