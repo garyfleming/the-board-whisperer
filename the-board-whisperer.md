@@ -382,23 +382,23 @@ Or worse: when the tester said it didn't do X, Y, or Z, the response was the awf
 
 ^ The way we get passed this is by having conversations. You need some Three Amigos at the start. You can pick your methodology as you like but you can avoid these kinds of blockers by having a three-way conversation between a developer, tester, and product owner (or sometimes BA) upfront. Make sure everyone understood and could contribute to the shaping of a story ahead of time. This meant far fewer issues later.
 
-
+<!--
 ---
 
 # Answer: Three Amigos
 
 ## Ensure the work is wanted, Do the work, check the work, ensure the work is wanted (again)
 
-^ Now I'm saying dev, test, and PO, but you just need someone who can do the work, who can check the work is done, and someone who can ensure the work is wanted (at the start and the end, preferably)
+^ Now I'm saying dev, test, and PO, but you just need someone who can do the work, who can check the work is done, and someone who can ensure the work is wanted (at the start and the end, preferably) -->
 
 ---
 
 # Three Amigos: Example Mapping
 
-## examplemapping.com
+## examplemapping.org
 
 
-^ You can use whatever method you like for these conversations. Right now, I really like Example Mapping, which was created by Matt Wynne. I don't have time to go into it now, but if you go to examplemapping.com you'll get taken to his original blog post on the matter.
+^ You can use whatever method you like for these conversations. Right now, I really like Example Mapping, which was created by Matt Wynne. I don't have time to go into it now, but if you go to examplemapping.org you'll get taken to his original blog post on the matter.
 
 ---
 
