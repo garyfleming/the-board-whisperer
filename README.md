@@ -16,6 +16,16 @@ In a new team, we started with a three-column standard to something that fits us
 
 At this point in Agile's lifecycle, many teams have switched to using a Kanban Board. Some are simple, three-column trackers; others are considerably more involved. Yet, many teams don't know how to stop for a moment and _listen_ to their board. It's gently trying to nudge them about the changes that it needs to make them a better team. Come along and learn how we can go from simple to just complicated enough, smoothly.
 
+## 100 char version
+
+Many teams have switched to using a Kanban Board. Learn how to use them effectively and easily.
+
+## Key Outcomes
+
+* You'll get to understand how a kanban board evolves over time, going from simple to complicated.
+* You'll see a number of common pitfalls when using boards to manage work.
+* You'll get to see a number of ways to improve your team, their intercommunication, and your product at the same time.
+
 ## Video
 
 There are several recordings of this talk available
